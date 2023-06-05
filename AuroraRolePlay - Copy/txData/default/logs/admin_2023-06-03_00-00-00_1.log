@@ -1,0 +1,77 @@
+
+================================================================
+======== txAdmin v6.0.0 atop fxserver 6478 Starting - 6/1/2023, 12:10:08 AM
+================================================================
+[00:10:56][gilf911] created admins file
+[00:11:30][gilf911] Changing global settings via setup stepper and started Deployer.
+[00:11:54][gilf911] Setting recipe.
+[00:12:43][gilf911] Running recipe.
+[00:19:27][gilf911] Completed and committed server deploy.
+[00:19:51][gilf911] executed "RESTART SERVER"
+[00:23:34][gilf911] logged in via in-game ui
+[00:31:34][gilf911] executed "RESTART SERVER"
+[00:32:50][gilf911] logged in via in-game ui
+[00:41:35][gilf911] executed "RESTART SERVER"
+[00:42:54][gilf911] logged in via in-game ui
+[00:50:04][gilf911] executed "refresh"
+[00:50:06][gilf911] executed "start [EMS]"
+[00:58:25][gilf911] logged in via in-game ui
+[16:48:41][gilf911] Changing global settings.
+[16:48:51][gilf911] Changing monitor settings.
+[17:00:30][gilf911] Changing discordBot settings.
+[17:03:42][gilf911] executed "RESTART SERVER"
+[17:05:56][gilf911] Changing global settings.
+[17:06:53][gilf911] executed "RESTART SERVER"
+[17:08:29][gilf911] executed "RESTART SERVER"
+[17:48:00][gilf911] executed "RESTART SERVER"
+[17:48:54][gilf911] executed "RESTART SERVER"
+[17:50:59][gilf911] logged in via in-game ui
+[17:53:28][gilf911] executed "RESTART SERVER"
+[17:56:11][gilf911] logged in via in-game ui
+[18:07:38][gilf911] executed "RESTART SERVER"
+[18:09:33][gilf911] executed "RESTART SERVER"
+[18:11:25][gilf911] executed "stop [Cars]"
+[18:12:08][gilf911] logged in via in-game ui
+[18:36:38][gilf911] logged in from 127.0.0.1 via citizenfx
+[18:51:11][gilf911] executed "RESTART SERVER"
+[19:07:34][gilf911] executed "RESTART SERVER"
+[21:25:08][gilf911] logged in via in-game ui
+[21:26:05][gilf911] logged in from 127.0.0.1 via password
+[21:27:23][gilf911] executed "migrateskins qb-clothing"
+[21:30:20][gilf911] executed "RESTART SERVER"
+[21:32:34][gilf911] logged in via in-game ui
+[21:34:02][gilf911] logged in via in-game ui
+[21:38:32][gilf911] executed "RESTART SERVER"
+[21:39:54][gilf911] executed "RESTART SERVER"
+[21:40:28][gilf911] executed "RESTART SERVER"
+[21:42:36][gilf911] logged in via in-game ui
+[21:44:23][gilf911] executed "RESTART SERVER"
+[21:55:31][gilf911] executed "load_server_icon myLogo.gif"
+[21:55:31][gilf911] logged in via in-game ui
+[21:55:33][gilf911] executed "restart ps-dispatch"
+[21:55:54][gilf911] executed "restart ps-dispatch"
+
+================================================================
+======== txAdmin v6.0.0 atop fxserver 6478 Starting - 6/1/2023, 9:56:14 PM
+================================================================
+[21:56:23][gilf911] logged in from 127.0.0.1 via password
+[21:58:46][gilf911] logged in via in-game ui
+[22:04:21][gilf911] executed "RESTART SERVER"
+[22:06:31][gilf911] logged in via in-game ui
+[22:38:48][gilf911] executed "RESTART SERVER"
+[22:40:34][gilf911] logged in via in-game ui
+[14:14:34][gilf911] logged in from 127.0.0.1 via citizenfx
+[14:14:39][gilf911] executed "RESTART SERVER"
+[14:17:32][gilf911] Changing discordBot settings.
+[14:17:35][gilf911] Changing discordBot settings.
+[14:19:36][gilf911] Changing discordBot settings.
+[14:19:41][gilf911] Changing discordBot settings.
+[14:20:03][gilf911] Editing user 'gilf911'.
+[14:20:10][gilf911] Status embed saved.
+[14:21:10][gilf911] Sending announcement: test test 
+[14:21:14][gilf911] executed "RESTART SERVER"
+[14:24:23][gilf911] logged in via in-game ui
+[14:43:56][gilf911] executed "ensure "codem-bank""
+[15:05:20][gilf911] executed "refresh"
+[15:05:28][gilf911] executed "RESTART SERVER"
+[15:15:01][gilf911] logged in via in-game ui

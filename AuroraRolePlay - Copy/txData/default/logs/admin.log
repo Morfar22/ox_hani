@@ -1,0 +1,15 @@
+
+================================================================
+======== txAdmin v6.0.0 atop fxserver 6478 Starting - 6/5/2023, 6:24:32 PM
+================================================================
+
+================================================================
+======== Log Rotated - 6/5/2023, 6:24:32 PM                     
+================================================================
+[19:49:35][gilf911] logged in from 127.0.0.1 via citizenfx
+[19:50:23][gilf911] executed "RESTART SERVER"
+[19:50:59][gilf911] executed "convertinventory qb"
+[19:51:04][gilf911] executed "RESTART SERVER"
+[19:55:16][gilf911] logged in via in-game ui
+[20:38:56][gilf911] logged in via in-game ui
+[23:39:36][gilf911] executed "add_principal identifier.fivem:1371041 group.admin"

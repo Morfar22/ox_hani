@@ -1,0 +1,19 @@
+{
+  "name": "discordqueue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server/discord.js",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/discord.js"
+  },
+  "keywords": [
+    "faxes"
+  ],
+  "author": "faxes / jxmessc0tt"
+}

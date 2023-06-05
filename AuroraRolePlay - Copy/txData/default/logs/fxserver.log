@@ -1,0 +1,2320 @@
+
+================================================================
+======== Log Rotated - 6/5/2023, 6:24:32 PM                     
+================================================================
+
+================================================================
+======== FXServer Starting - 6/5/2023, 6:24:38 PM               
+================================================================
+Could not register with breakpad server.
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[   resources:billyde] Warning: billyde does not have a resource manifest (fxmanifest.lua)
+[   resources:mt09eng] Warning: mt09eng does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 230 resources.
+[           resources] 2 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.0 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] The file myLogo.gif is not a PNG file.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for ox_lib
+[           resources] Started resource ox_lib
+[    c-scripting-core] Creating script environments for qb-core
+[           resources] [0mStarted resource qb-core
+[    c-scripting-core] Creating script environments for ox_inventory
+[           resources] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for illenium-appearance
+[           resources] Started resource illenium-appearance
+[           resources] Started resource menuv
+[    c-scripting-core] [97mCreating script environments for qb-adminmenu
+[           resources] Started resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] [97mCreating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] Creating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] Started resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] Creating script environments for qb-fitbit
+[           resources] Started resource qb-fitbit
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[           resources] Started resource qb-lockpick
+[           resources] Started resource qb-skillbar
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[           resources] Started resource qb-keyminigame
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] Started resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] Started resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] [97mStarted resource qb-recyclejob
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-smallresources
+[           resources] [0mStarted resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] Started resource qb-storerobbery
+[           resources] Started resource qb-target
+[    c-scripting-core] [97mCreating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] Started resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-tunerchip
+[           resources] Started resource qb-tunerchip
+[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[           resources] Started resource qb-vehiclefailure
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] Started resource qb-vehiclekeys
+[    c-scripting-core] Creating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for discordqueue
+[           resources] Started resource discordqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[           resources] Started resource mhacking
+[           resources] Started resource progressbar
+[    c-scripting-core] Creating script environments for rpemotes
+[     script:rpemotes] RpEmotes by TayMcKenzieNZ, Mathhu_Imn & MadsL loaded sucessfully.
+[     script:rpemotes] [rp] Sql Keybinding is turned off, if you want to enable /emotebind, set SqlKeybinding = true in config.lua and uncomment oxmysql lines in fxmanifest.lua.
+[           resources] Started resource rpemotes
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] [0mCreating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for qb-radio
+[           resources] Started resource qb-radio
+[    c-scripting-core] Creating script environments for cfx-gabz-mapdata
+[           resources] Started resource cfx-gabz-mapdata
+[    c-scripting-core] Creating script environments for cfx-gabz-247
+[           resources] Started resource cfx-gabz-247
+[    c-scripting-core] Creating script environments for cfx-gabz-ammunation
+[           resources] Started resource cfx-gabz-ammunation
+[    c-scripting-core] Creating script environments for cfx-gabz-beanmachine
+[           resources] Started resource cfx-gabz-beanmachine
+[    c-scripting-core] Creating script environments for cfx-gabz-bennys
+[resources:cfx-gabz-b] Asset cfx-gabz-bennys/gabz_bennys_images_txd.ytd uses 20.0 MiB of physical memory.
+[resources:cfx-gabz-b] [0mAsset cfx-gabz-bennys/gabz_bennys_txd.ytd uses 25.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-bennys (2 warnings)
+[    c-scripting-core] Creating script environments for cfx-gabz-carmeet
+[resources:cfx-gabz-c] Asset cfx-gabz-carmeet/gabz_tuner_car_meet_txd.ytd uses 21.5 MiB of physical memory.
+[38;5;83m[           resources] Started resource cfx-gabz-carmeet (1 warning)
+[    c-scripting-core] [0mCreating script environments for cfx-gabz-catcafe
+[resources:cfx-gabz-c] Asset cfx-gabz-catcafe/denis3d_catcafe_txd.ytd uses 23.0 MiB of physical memory.
+[           resources] [0mStarted resource cfx-gabz-catcafe (1 warning)
+[    c-scripting-core] [0mCreating script environments for cfx-gabz-import
+[           resources] Started resource cfx-gabz-import
+[    c-scripting-core] Creating script environments for cfx-gabz-impound
+[           resources] Started resource cfx-gabz-impound
+[    c-scripting-core] Creating script environments for cfx-gabz-pdprops
+[resources:cfx-gabz-p] Asset cfx-gabz-pdprops/gabz_pdprops01_txd.ytd uses 27.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pdprops (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pillbox
+[resources:cfx-gabz-p] Asset cfx-gabz-pillbox/gabz_pillbox_textures_01.ytd uses 24.8 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pillbox (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pizzeria
+[resources:cfx-gabz-p] Asset cfx-gabz-pizzeria/sm_pizzeria_txd_01.ytd uses 21.4 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pizzeria (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-suburban
+[           resources] Started resource cfx-gabz-suburban
+[    c-scripting-core] Creating script environments for cfx-gabz-tattoo
+[           resources] Started resource cfx-gabz-tattoo
+[    c-scripting-core] [0mCreating script environments for cfx-gabz-townhall
+[resources:cfx-gabz-t] Asset cfx-gabz-townhall/gabz_townhall_txd.ytd uses 36.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-townhall (1 warning)
+[    c-scripting-core] [0mCreating script environments for cfx-gabz-tuners
+[resources:cfx-gabz-t] Asset cfx-gabz-tuners/denis3d_tunershop_txd.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource cfx-gabz-tuners (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-vu
+[           resources] Started resource cfx-gabz-vu
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_detail_3.ydr uses 24.0 MiB of physical memory.
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_pipe.ytd uses 30.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorGarage (2 warnings)
+[           resources] Started resource vinewoodfloorLSPD
+[resources:vinewoodfl] Asset vinewoodfloorMain/slb2k11_vinewoodpd_mainfloor.ydr uses 24.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorMain (1 warning)
+[           resources] Started resource vinewoodfloorStairs
+[           resources] Started resource vinewoodfloorUG
+[    c-scripting-core] Creating script environments for 17mov_BuilderJob
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_BuilderCar.ytd uses 17.5 MiB of physical memory.
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_Mixer.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource 17mov_BuilderJob (2 warnings)
+[    c-scripting-core] Creating script environments for 17mov_Deliverer
+[resources:17mov_Deli] Asset 17mov_Deliverer/17mov_DeliveryCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_Deliverer (1 warning)
+[           resources] Started resource Howdy-Minigame
+[    c-scripting-core] Creating script environments for 17mov_Electrician
+[resources:17mov_Elec] Asset 17mov_Electrician/17mov_ElectricianCar.ytd uses 16.5 MiB of physical memory.
+[           resources] Started resource 17mov_Electrician (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_GruppeSechs
+[           resources] Started resource 17mov_GruppeSechs
+[    c-scripting-core] Creating script environments for 17mov_TreasureHunter
+[resources:17mov_Trea] Asset 17mov_TreasureHunter/17mov_treasureBoat.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource 17mov_TreasureHunter (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_WindowCleaning
+[resources:17mov_Wind] Asset 17mov_WindowCleaning/17mov_WindowCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_WindowCleaning (1 warning)
+[resources:22b:stream] Asset 22b/22b.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 22b (1 warning)
+[ resources:69charger] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:69charger:] Asset 69charger/69charger.ytd uses 118.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 69charger (2 warnings)
+[resources:909seahawk] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Asset 909seahawk/909_seahawk.ytd uses 81.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 909seahawk (3 warnings)
+[resources:AMGE60:str] Asset AMGE60/AMGE60.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource AMGE60 (1 warning)
+[    resources:BMWM5P] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:BMWM5P:str] Asset BMWM5P/BMWM5P.ytd uses 82.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource BMWM5P (2 warnings)
+[      resources:F450] Warning: could not find file `dlctext.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `handling.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:F450:strea] Asset F450/F450.yft uses 24.8 MiB of virtual memory.
+[resources:F450:strea] Asset F450/F450.ytd uses 106.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:F450:strea] Asset F450/F450_hi.yft uses 24.8 MiB of virtual memory.
+[           resources] Started resource F450 (6 warnings)
+[resources:Ferrari812] Asset Ferrari812/f812.ytd uses 61.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource Ferrari812 (1 warning)
+[  resources:Marauder] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:Marauder:s] Asset Marauder/Marauder.yft uses 19.8 MiB of virtual memory.
+[resources:Marauder:s] Asset Marauder/Marauder.ytd uses 37.0 MiB of physical memory.
+[resources:Marauder:s] Asset Marauder/Marauder_HI.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource Marauder (4 warnings)
+[           resources] Started resource RageUI
+[      resources:SAHP] Warning: could not find client_script `client.lua` (defined in __resource.lua:17)
+[      resources:SAHP] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:SAHP:strea] Asset SAHP/hp1.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp1.ytd uses 218.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp1_hi.yft uses 18.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.ytd uses 185.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp2_hi.yft uses 17.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.yft uses 26.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.ytd uses 211.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp3_hi.yft uses 20.4 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.yft uses 24.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.ytd uses 158.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp4_hi.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.yft uses 20.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp5_hi.yft uses 16.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.yft uses 18.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp7.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7_hi.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp8.ytd uses 206.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp9.ytd uses 210.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource SAHP (26 warnings)
+[resources:SubaruSTI7] Asset SubaruSTI7/subarusti7.ytd uses 39.0 MiB of physical memory.
+[           resources] Started resource SubaruSTI7 (1 warning)
+[resources:ae86:strea] Asset ae86/ae86.yft uses 26.0 MiB of virtual memory.
+[resources:ae86:strea] Asset ae86/ae86.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ae86:strea] Asset ae86/ae86_hi.yft uses 26.0 MiB of virtual memory.
+[           resources] Started resource ae86 (3 warnings)
+[   resources:bmwx5mc] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:bmwx5mc:st] Asset bmwx5mc/bmwx5mc.ytd uses 39.5 MiB of physical memory.
+[           resources] Started resource bmwx5mc (2 warnings)
+[    resources:cb650r] Warning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:cb650r:str] Asset cb650r/cb650r.yft uses 18.8 MiB of virtual memory.
+[38;5;152m[resources:cb650r:str] Asset cb650r/cb650r.ytd uses 33.5 MiB of physical memory.
+[resources:cb650r:str] Asset cb650r/cb650r_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource cb650r (4 warnings)
+[           resources] Started resource cd_drawtextui
+[           resources] Started resource cd_garageshell
+[    c-scripting-core] Creating script environments for cd_garage
+[           resources] Started resource cd_garage
+[           resources] Started resource cd_keymaster
+[resources:cgt:stream] Asset cgt/cgt.ytd uses 44.0 MiB of physical memory.
+[           resources] Started resource cgt (1 warning)
+[   resources:chall70] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:chall70:st] Asset chall70/chall70.ytd uses 38.5 MiB of physical memory.
+[           resources] Started resource chall70 (2 warnings)
+[    c-scripting-core] Creating script environments for codem-bank
+[           resources] Started resource codem-bank
+[           resources] Started resource cs_firstspawn
+[  resources:ct5vbw22] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.yft uses 29.8 MiB of virtual memory.
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.ytd uses 84.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource ct5vbw22 (4 warnings)
+[     resources:cyrus] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:cyrus:stre] Asset cyrus/cyrus.yft uses 18.5 MiB of virtual memory.
+[resources:cyrus:stre] Asset cyrus/cyrus.ytd uses 28.0 MiB of physical memory.
+[resources:cyrus:stre] Asset cyrus/cyrus_hi.yft uses 18.5 MiB of virtual memory.
+[           resources] Started resource cyrus (4 warnings)
+[resources:denalihd:s] Asset denalihd/denalihd.yft uses 30.0 MiB of virtual memory.
+[resources:denalihd:s] Asset denalihd/denalihd.ytd uses 43.0 MiB of physical memory.
+[resources:denalihd:s] Asset denalihd/denalihd_hi.yft uses 30.0 MiB of virtual memory.
+[           resources] Started resource denalihd (3 warnings)
+[    c-scripting-core] Creating script environments for drx_dw
+[           resources] Started resource drx_dw
+[    c-scripting-core] Creating script environments for drx_emdw
+[     script:drx_emdw] #########################################
+[     script:drx_emdw] [DRX - EMERGENCY MOBILE DATA WORKSTATION]
+[     script:drx_emdw] [Running version: 1.0.0.1]
+[     script:drx_emdw] #########################################
+[           resources] Started resource drx_emdw
+[    c-scripting-core] Creating script environments for drx_mdw
+[      script:drx_mdw] ###############################
+[      script:drx_mdw] [DRX - MOBILE DATA WORKSTATION]
+[      script:drx_mdw] [Running version: 1.2.1.5]
+[      script:drx_mdw] ###############################
+[           resources] Started resource drx_mdw
+[      resources:dv4r] Warning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:dv4r:strea] Asset dv4r/dv4r.ytd uses 168.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource dv4r (2 warnings)
+[    resources:e63amg] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:e63amg:str] Asset e63amg/e63amg.yft uses 25.2 MiB of virtual memory.
+[resources:e63amg:str] Asset e63amg/e63amg.ytd uses 63.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63amg:str] Asset e63amg/e63amg_hi.yft uses 25.2 MiB of virtual memory.
+[           resources] Started resource e63amg (4 warnings)
+[     resources:e63sf] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:e63sf:stre] Asset e63sf/e63sf.yft uses 26.5 MiB of virtual memory.
+[resources:e63sf:stre] Asset e63sf/e63sf.ytd uses 69.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63sf:stre] Asset e63sf/e63sf_hi.yft uses 26.5 MiB of virtual memory.
+[           resources] [0mStarted resource e63sf (4 warnings)
+[           resources] Started resource e78
+[       resources:ek9] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ek9:stream] Asset ek9/ek9.ytd uses 64.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ek9 (2 warnings)
+[   resources:emsfpiu] Warning: could not find client_script `data/vehicle_names.lua` (defined in __resource.lua:13)
+[resources:emsfpiu:st] Asset emsfpiu/qrv.yft uses 27.5 MiB of virtual memory.
+[resources:emsfpiu:st] Asset emsfpiu/qrv.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource emsfpiu (3 warnings)
+[resources:er34n:stre] Asset er34n/er34n.ytd uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_floormat_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_floormat_8.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_17.yft uses 33.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_18.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_19.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_20.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_9.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] [0mAsset er34n/er34n_tuning.ytd uses 152.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource er34n (16 warnings)
+[     resources:evo10] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:evo10:stre] Asset evo10/evo10.yft uses 17.5 MiB of virtual memory.
+[resources:evo10:stre] Asset evo10/evo10.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource evo10 (3 warnings)
+[  resources:f450ambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:f450ambo] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[  resources:f450ambo] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)[0m
+[resources:f450ambo:s] Asset f450ambo/f450ambo+hi.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo.yft uses 23.5 MiB of virtual memory.
+[resources:f450ambo:s] Asset f450ambo/f450ambo.ytd uses 71.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource f450ambo (7 warnings)
+[ resources:fd:stream] Asset fd/fd.ytd uses 43.5 MiB of physical memory.
+[           resources] Started resource fd (1 warning)
+[resources:firebird:s] Asset firebird/firebird.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource firebird (1 warning)
+[resources:fleet78:st] [0mAsset fleet78/fleet78.ytd uses 26.0 MiB of physical memory.
+[resources:fleet78:st] Asset fleet78/fleet78low.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource fleet78 (2 warnings)
+[   resources:focusrs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:focusrs:st] Asset focusrs/focusrs.ytd uses 54.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource focusrs (2 warnings)
+[  resources:fordambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:fordambo:s] Asset fordambo/fordambo.yft uses 26.2 MiB of virtual memory.
+[resources:fordambo:s] Asset fordambo/fordambo.ytd uses 126.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:fordambo:s] Asset fordambo/fordambo_hi.yft uses 26.2 MiB of virtual memory.
+[           resources] Started resource fordambo (4 warnings)
+[   resources:foxgt24] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:foxgt24:st] Asset foxgt24/foxdh.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxdh.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxdh_hi.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxecb_hi.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.yft uses 31.0 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxgt24_hi.yft uses 31.0 MiB of virtual memory.
+[           resources] Started resource foxgt24 (10 warnings)
+[    c-scripting-core] Creating script environments for gks_ebay
+[           resources] Started resource gks_ebay
+[    c-scripting-core] [0mCreating script environments for gks_gotur
+[           resources] Started resource gks_gotur
+[    c-scripting-core] [0mCreating script environments for gks_racing
+[           resources] Started resource gks_racing
+[    c-scripting-core] Creating script environments for gks_rentacar
+[           resources] Started resource gks_rentacar
+[    c-scripting-core] Creating script environments for gksphone
+[    c-scripting-core] Failed to load script @qb-garages/config.lua.
+[           resources] [0mStarted resource gksphone
+[resources:glsbrabus8] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.yft uses 21.5 MiB of virtual memory.
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.ytd uses 73.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource glsbrabus800 (4 warnings)
+[           resources] Started resource gmcyd
+[resources:gmt900esca] Asset gmt900escalade/gmt900escalade.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource gmt900escalade (1 warning)
+[resources:gxg20:stre] Asset gxg20/gxg20.yft uses 21.8 MiB of virtual memory.
+[resources:gxg20:stre] Asset gxg20/gxg20.ytd uses 30.0 MiB of physical memory.
+[resources:gxg20:stre] Asset gxg20/gxg20_hi.yft uses 21.8 MiB of virtual memory.
+[           resources] Started resource gxg20 (3 warnings)
+[  resources:honcrx91] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:honcrx91:s] Asset honcrx91/honcrx91.ytd uses 40.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery1.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery2.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery3.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery4.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery5.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery6.yft uses 32.0 MiB of physical memory.
+[           resources] Started resource honcrx91 (8 warnings)
+[resources:is300:stre] Asset is300/is300.ytd uses 19.5 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_seat_5_l.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_seat_5_r.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_16.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_9.yft uses 32.0 MiB of physical memory.
+[38;5;120m[resources:is300:stre] Asset is300/is300_tuning.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource is300 (13 warnings)
+[resources:jzx100:str] Asset jzx100/jzx100.yft uses 27.8 MiB of virtual memory.
+[resources:jzx100:str] Asset jzx100/jzx100.ytd uses 50.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:jzx100:str] Asset jzx100/jzx100_hi.yft uses 27.8 MiB of virtual memory.
+[38;5;83m[           resources] Started resource jzx100 (3 warnings)
+[           resources] Started resource kc98gmls6
+[           resources] Started resource kc98gmls6sc
+[    c-scripting-core] Creating script environments for ks-multicharacter
+[           resources] Started resource ks-multicharacter
+[    c-scripting-core] Creating script environments for ks-scoreboard
+[           resources] Started resource ks-scoreboard
+[    c-scripting-core] Creating script environments for ks-spawn
+[           resources] Started resource ks-spawn
+[ resources:laferrari] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:laferrari:] Asset laferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[resources:laferrari:] Asset laferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:laferrari:] Asset laferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[           resources] [0mStarted resource laferrari (4 warnings)
+[resources:lc500:stre] Asset lc500/lc500.ytd uses 36.0 MiB of physical memory.
+[           resources] Started resource lc500 (1 warning)
+[resources:lfa:stream] Asset lfa/lfa.yft uses 32.5 MiB of virtual memory.
+[resources:lfa:stream] Asset lfa/lfa.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:lfa:stream] Asset lfa/lfa_hi.yft uses 32.5 MiB of virtual memory.
+[           resources] Started resource lfa (3 warnings)
+[    c-scripting-core] Creating script environments for lvc
+[       resources:lvc] Warning: could not find client_script `/PLUGINS/**/SETTINGS.lua` (defined in fxmanifest.lua:42)
+[       resources:lvc] Warning: could not find server_script `/PLUGINS/**/sv_*.lua` (defined in fxmanifest.lua:79)
+[       resources:lvc] [93mWarning: could not find file `PLUGINS/**/*.json` (defined in fxmanifest.lua:26)
+[           resources] Started resource lvc (3 warnings)
+[    c-scripting-core] Creating script environments for m-loadingscreen
+[resources:m-loadings] Warning: could not find file `html/assets/video/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/video/*.webm` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/**/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/**/*.ogg` (defined in fxmanifest.lua:19)
+[           resources] Started resource m-loadingscreen (4 warnings)
+[     resources:m3e36] [93mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m3e36:stre] Asset m3e36/m3e36.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource m3e36 (2 warnings)
+[       resources:m4c] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4c:stream] Asset m4c/m4c.yft uses 31.1 MiB of virtual memory.
+[resources:m4c:stream] Asset m4c/m4c.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4c:stream] Asset m4c/m4c_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource m4c (4 warnings)
+[      resources:m4cs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4cs:strea] Asset m4cs/m4cs.yft uses 28.5 MiB of virtual memory.
+[resources:m4cs:strea] Asset m4cs/m4cs.ytd uses 70.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4cs:strea] Asset m4cs/m4cs_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource m4cs (4 warnings)
+[    resources:mbbs20] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:mbbs20] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbbs20:str] Asset mbbs20/mbbs20.ytd uses 88.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbbs20 (3 warnings)
+[     resources:mbc63] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbc63:stre] Asset mbc63/mbc63.ytd uses 74.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbc63 (2 warnings)
+[resources:medic22:st] Asset medic22/medic22.yft uses 31.1 MiB of virtual memory.
+[resources:medic22:st] Asset medic22/medic22.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:medic22:st] Asset medic22/medic22_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource medic22 (3 warnings)
+[      resources:mt09] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mt09:strea] Asset mt09/mt09.yft uses 21.5 MiB of virtual memory.
+[resources:mt09:strea] Asset mt09/mt09.ytd uses 24.0 MiB of physical memory.
+[resources:mt09:strea] Asset mt09/mt09_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource mt09 (4 warnings)
+[ resources:mustang65] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mustang65:] Asset mustang65/mustang65.ytd uses 31.5 MiB of physical memory.
+[           resources] Started resource mustang65 (2 warnings)
+[           resources] Started resource na1
+[resources:na6:stream] Asset na6/na6.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource na6 (1 warning)
+[resources:np-vehicle] Warning: could not find client_script `vehicle_names.lua` (defined in fxmanifest.lua:285)
+[resources:np-vehicle] Warning: could not find file `sfx/dlc_aventadorv12/aventadorv12_npc.awc` (defined in fxmanifest.lua:4)
+[           resources] Started resource np-vehicleaudio (2 warnings)
+[resources:npol:strea] Asset npol/npolchal.ytd uses 20.5 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolstang.ytd uses 18.8 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolvette.ytd uses 22.0 MiB of physical memory.
+[           resources] Started resource npol (3 warnings)
+[resources:ocnetrongt] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.yft uses 24.9 MiB of virtual memory.
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt_hi.yft uses 24.9 MiB of virtual memory.
+[           resources] Started resource ocnetrongt (4 warnings)
+[     resources:ody18] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[     resources:ody18] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ody18:stre] [0mAsset ody18/ody18.ytd uses 42.5 MiB of physical memory.
+[           resources] Started resource ody18 (3 warnings)
+[resources:pcs18:stre] Asset pcs18/pcs18.yft uses 28.2 MiB of virtual memory.
+[resources:pcs18:stre] Asset pcs18/pcs18.ytd uses 16.8 MiB of physical memory.
+[resources:pcs18:stre] Asset pcs18/pcs18_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource pcs18 (3 warnings)
+[    resources:pgt322] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:pgt322] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt322:str] Asset pgt322/pgt322.ytd uses 148.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt322 (3 warnings)
+[  resources:pgt3rs19] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[  resources:pgt3rs19] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt3rs19:s] Asset pgt3rs19/pgt3rs19.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt3rs19 (3 warnings)
+[resources:police_add] Asset police_addon/13capricevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13capricevw.ytd uses 127.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/13fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13fpiuvw.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] [0mAsset police_addon/14chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/14chargervw.ytd uses 161.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/16fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/16fpiuvw.ytd uses 181.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18chargervw.ytd uses 148.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18f150vw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18f150vw.ytd uses 200.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18tahoevw.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18tahoevw.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw_hi.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18taurusvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18taurusvw.ytd uses 163.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource police_addon (18 warnings)
+[   resources:porrs73] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:porrs73:st] Asset porrs73/porrs73.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource porrs73 (2 warnings)
+[    c-scripting-core] Creating script environments for ps-dispatch
+[  script:ps-dispatch] Speeding	true	true
+[  script:ps-dispatch] PlayerDowned	true	true
+[  script:ps-dispatch] Melee	true	true
+[  script:ps-dispatch] Autotheft	true	true
+[  script:ps-dispatch] Shooting	true	true
+[           resources] Started resource ps-dispatch
+[    c-scripting-core] [0mCreating script environments for ps-hud
+[           resources] Started resource ps-hud
+[resources:pturismo:s] Asset pturismo/pturismo.yft uses 30.2 MiB of virtual memory.
+[resources:pturismo:s] Asset pturismo/pturismo.ytd uses 17.8 MiB of physical memory.
+[resources:pturismo:s] Asset pturismo/pturismo_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource pturismo (3 warnings)
+[resources:r34speedhu] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.yft uses 28.2 MiB of virtual memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.ytd uses 28.0 MiB of physical memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource r34speedhunter (5 warnings)
+[  resources:r35prior] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r35prior:s] Asset r35prior/r35prior.yft uses 31.9 MiB of virtual memory.
+[resources:r35prior:s] Asset r35prior/r35prior.ytd uses 192.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:r35prior:s] Asset r35prior/r35prior_hi.yft uses 31.9 MiB of virtual memory.
+[           resources] Started resource r35prior (4 warnings)
+[     resources:r8v10] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r8v10:stre] Asset r8v10/r8v10.yft uses 19.8 MiB of virtual memory.
+[resources:r8v10:stre] Asset r8v10/r8v10.ytd uses 42.0 MiB of physical memory.
+[resources:r8v10:stre] Asset r8v10/r8v10_hi.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource r8v10 (4 warnings)
+[resources:raptor2017] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:raptor2017] Asset raptor2017/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:raptor2017] Asset raptor2017/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_2.yft uses 20.8 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_4.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_raidint.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools.yft uses 24.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools2.yft uses 24.0 MiB of physical memory.
+[           resources] Started resource raptor2017 (10 warnings)
+[resources:razerhycad] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:18)
+[resources:razerhycad] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[resources:razerhycad] Asset razerhycade34/razerhycade34.yft uses 28.5 MiB of virtual memory.
+[resources:razerhycad] Asset razerhycade34/razerhycade34.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:razerhycad] Asset razerhycade34/razerhycade34_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource razerhycade34 (5 warnings)
+[resources:rs318:stre] Asset rs318/rs318.yft uses 32.5 MiB of virtual memory.
+[resources:rs318:stre] Asset rs318/rs318.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs318:stre] Asset rs318/rs318_hi.yft uses 32.5 MiB of virtual memory.
+[resources:rs318:stre] Asset rs318/wheel_abt_01.ydr uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs318 (4 warnings)
+[    resources:rs3s20] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[    resources:rs3s20] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:rs3s20:str] Asset rs3s20/rs3s20.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/rs3s20.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs3s20:str] Asset rs3s20/rs3s20_hi.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/wheel_abt_03.ydr uses 32.0 MiB of physical memory.
+[           resources] Started resource rs3s20 (6 warnings)
+[  resources:rs4avant] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:rs4avant:s] Asset rs4avant/rs4avant.yft uses 30.2 MiB of virtual memory.
+[resources:rs4avant:s] Asset rs4avant/rs4avant.ytd uses 55.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs4avant:s] Asset rs4avant/rs4avant_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource rs4avant (4 warnings)
+[resources:rs62:strea] Asset rs62/rs62.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs62 (1 warning)
+[resources:rs7:stream] Asset rs7/rs7.yft uses 31.5 MiB of virtual memory.[0m
+[resources:rs7:stream] Asset rs7/rs7.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7:stream] Asset rs7/rs7_hi.yft uses 31.5 MiB of virtual memory.
+[           resources] Started resource rs7 (3 warnings)
+[     resources:rs7c8] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.yft uses 23.5 MiB of virtual memory.
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.ytd uses 94.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7c8:stre] Asset rs7c8/rs7c8_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource rs7c8 (4 warnings)
+[resources:rx811:stre] Asset rx811/rx811.yft uses 26.8 MiB of virtual memory.
+[resources:rx811:stre] Asset rx811/rx811.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rx811 (2 warnings)
+[      resources:s63b] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:s63b:strea] Asset s63b/s63b.yft uses 29.8 MiB of virtual memory.
+[resources:s63b:strea] Asset s63b/s63b.ytd uses 56.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:s63b:strea] Asset s63b/s63b_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource s63b (4 warnings)
+[   resources:silvia3] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:silvia3:st] Asset silvia3/silvia3.yft uses 30.2 MiB of virtual memory.
+[resources:silvia3:st] Asset silvia3/silvia3.ytd uses 98.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[38;5;190m[resources:silvia3:st] Asset silvia3/silvia3_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource silvia3 (4 warnings)
+[  resources:sr650fly] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:sr650fly] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[  resources:sr650fly] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:sr650fly:s] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource sr650fly (4 warnings)
+[      resources:ss69] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ss69:strea] Asset ss69/ss69.ytd uses 196.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ss69 (2 warnings)
+[           resources] Started resource subwrx
+[resources:tahoe:stre] Asset tahoe/tahoe.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource tahoe (1 warning)
+[    c-scripting-core] Creating script environments for teezy-Carrental
+[           resources] Started resource teezy-Carrental
+[   resources:teslapd] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[   resources:teslapd] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[   resources:teslapd] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:teslapd:st] Asset teslapd/teslapd.yft uses 22.4 MiB of virtual memory.
+[resources:teslapd:st] Asset teslapd/teslapd.ytd uses 37.5 MiB of physical memory.
+[resources:teslapd:st] Asset teslapd/teslapd_hi.yft uses 22.4 MiB of virtual memory.
+[           resources] Started resource teslapd (6 warnings)
+[resources:teslax:str] Asset teslax/teslax.yft uses 19.5 MiB of virtual memory.
+[resources:teslax:str] Asset teslax/teslax.ytd uses 115.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:teslax:str] Asset teslax/teslax_hi.yft uses 19.5 MiB of virtual memory.
+[           resources] Started resource teslax (3 warnings)
+[resources:vwpassat:s] Asset vwpassat/vwpasat.yft uses 29.2 MiB of virtual memory.
+[resources:vwpassat:s] Asset vwpassat/vwpasat.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:vwpassat:s] Asset vwpassat/vwpasat_hi.yft uses 29.2 MiB of virtual memory.
+[           resources] Started resource vwpassat (3 warnings)
+[           resources] Started resource wm-serversirens
+[     resources:xp210] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:xp210:stre] Asset xp210/xp210.ytd uses 65.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:xp210:stre] Asset xp210/xp210_hi.yft uses 23.2 MiB of virtual memory.
+[           resources] Started resource xp210 (3 warnings)
+[    c-scripting-core] [0mCreating script environments for xsound
+[    resources:xsound] Warning: could not find file `html/sounds/*.ogg` (defined in fxmanifest.lua:35)
+[    resources:xsound] Warning: could not find file `html/sounds/*.mp3` (defined in fxmanifest.lua:35)
+[           resources] Started resource xsound (2 warnings)
+[resources:yukonxl:st] Asset yukonxl/yukonxl.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource yukonxl (1 warning)
+[resources:zl12017:st] Asset zl12017/zl12017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zl12017 (1 warning)
+[     resources:zx10r] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:27)
+[     resources:zx10r] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:12)
+[resources:zx10r:stre] Asset zx10r/zx10r.ytd uses 74.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zx10r (3 warnings)
+[      script:oxmysql] Database server connection established!
+[     script:rpemotes] [rpemotes] Current Version: 1.2.6
+[     script:rpemotes] [rpemotes] Latest Version: 1.2.6
+[     script:rpemotes] [rpemotes] You are running the latest version.
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ script:ox_inventory] [info] 114 items have been copied from the QBCore.Shared.Items.
+[ script:ox_inventory] [info] You should restart the resource to load the new items.
+[           resources] Stopping resource qb-weapons
+[           resources] Stopping resource hardcap
+[script:ks-multichara] [0m
+[script:ks-multichara] Starting <qb-core> version of [ks-multicharacter]...
+[script:ks-multichara] 
+[script:ks-scoreboard] 
+[script:ks-scoreboard] Starting <qb-core> version of [ks-scoreboard]...
+[script:ks-scoreboard] 
+[     script:ks-spawn] 
+[     script:ks-spawn] Starting <qb-core> version of [ks-spawn]...
+[     script:ks-spawn] 
+[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[    script:cd_garage] [cd_garage] - Saving all cached data please wait....
+[    script:cd_garage] ----------------------------
+[    script:cd_garage] Automatically Inserting SQL.
+[ citizen-server-impl] [0m        fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl] [91m                                     
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gilf911-kala66.users.cfx.re/
+[    script:cd_garage] SQL Inserted Successfully.[97m
+[    script:cd_garage] --------------------------
+[          script:lvc] 
+[          script:lvc] 	 ________________________________________________________
+[          script:lvc] 	|	      __                       ___               |
+[          script:lvc] 	|	     / /       /\   /\        / __\              |
+[          script:lvc] 	|	    / /        \ \ / /       / /                 |
+[          script:lvc] 	|	   / /___       \ V /       / /___               |
+[          script:lvc] 	|	   \____/uxart   \_/ ehicle \____/ontrol         |
+[          script:lvc] 	|	                                                 |
+[          script:lvc] 	|	            COMMUNITY ID: AR                     |
+[          script:lvc] 	|	         INSTALLED VERSION: 3.2.8                |
+[          script:lvc] 	|	           LATEST VERSION:  3.2.9
+[          script:lvc]                 |
+[    script:cd_garage] [cd_garage] - Saved all cached data.
+[ script:ox_inventory] [info] Inventory has loaded 319 items
+[          script:lvc] 	|	             UPDATE REQUIRED                     |
+[          script:lvc] 	|                      DOWNLOAD AT:                      |
+[          script:lvc] 	| github.com/TrevorBarns/luxart-vehicle-control/releases |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 	|      Updates, Support, Feedback: discord.link/LVC      |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 
+[          script:lvc] 
+[   script:codem-bank] codem-bank:Framework object found : 	newqb
+[     script:gksphone] [GKSPHONE] You are using the current version!
+[    script:cd_garage] ===================================
+[    script:cd_garage] [cd_garage] - New Update Available.
+[    script:cd_garage] Current Version: 4.3.2.
+[    script:cd_garage] New Version: 4.3.3.
+[    script:cd_garage] Notes: bug fixes.
+[    script:cd_garage] ===================================
+> txaEvent "adminsUpdated" "[]"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂gilf911＂,＂message＂:＂Server genstarter: (requested by gilf911).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 6/5/2023, 7:50:29 PM               
+================================================================
+Could not register with breakpad server.
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[   resources:billyde] Warning: billyde does not have a resource manifest (fxmanifest.lua)
+[   resources:mt09eng] Warning: mt09eng does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 230 resources.
+[           resources] 2 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.0 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] The file myLogo.gif is not a PNG file.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for ox_lib
+[           resources] Started resource ox_lib
+[    c-scripting-core] Creating script environments for qb-core
+[           resources] Started resource qb-core
+[    c-scripting-core] Creating script environments for ox_inventory
+[           resources] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for illenium-appearance
+[           resources] [0mStarted resource illenium-appearance
+[           resources] Started resource menuv
+[    c-scripting-core] Creating script environments for qb-adminmenu
+[           resources] Started resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] Creating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] Creating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] Started resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] [0mCreating script environments for qb-fitbit
+[           resources] Started resource qb-fitbit
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[           resources] Started resource qb-lockpick
+[           resources] Started resource qb-skillbar
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[           resources] Started resource qb-keyminigame
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] Started resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] Started resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] Started resource qb-recyclejob
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-smallresources
+[           resources] Started resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] Started resource qb-storerobbery
+[           resources] Started resource qb-target
+[    c-scripting-core] Creating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] Started resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-tunerchip
+[           resources] Started resource qb-tunerchip
+[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[           resources] Started resource qb-vehiclefailure
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] Started resource qb-vehiclekeys
+[    c-scripting-core] Creating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] [0mCreating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for discordqueue
+[           resources] Started resource discordqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[           resources] Started resource mhacking
+[           resources] Started resource progressbar
+[    c-scripting-core] Creating script environments for rpemotes
+[     script:rpemotes] RpEmotes by TayMcKenzieNZ, Mathhu_Imn & MadsL loaded sucessfully.
+[     script:rpemotes] [rp] Sql Keybinding is turned off, if you want to enable /emotebind, set SqlKeybinding = true in config.lua and uncomment oxmysql lines in fxmanifest.lua.
+[           resources] Started resource rpemotes
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for qb-radio
+[           resources] Started resource qb-radio
+[    c-scripting-core] Creating script environments for cfx-gabz-mapdata
+[           resources] [0mStarted resource cfx-gabz-mapdata
+[    c-scripting-core] Creating script environments for cfx-gabz-247
+[           resources] Started resource cfx-gabz-247
+[    c-scripting-core] Creating script environments for cfx-gabz-ammunation
+[           resources] Started resource cfx-gabz-ammunation
+[    c-scripting-core] Creating script environments for cfx-gabz-beanmachine
+[           resources] Started resource cfx-gabz-beanmachine
+[    c-scripting-core] Creating script environments for cfx-gabz-bennys
+[resources:cfx-gabz-b] Asset cfx-gabz-bennys/gabz_bennys_images_txd.ytd uses 20.0 MiB of physical memory.
+[resources:cfx-gabz-b] Asset cfx-gabz-bennys/gabz_bennys_txd.ytd uses 25.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-bennys (2 warnings)
+[    c-scripting-core] Creating script environments for cfx-gabz-carmeet
+[resources:cfx-gabz-c] Asset cfx-gabz-carmeet/gabz_tuner_car_meet_txd.ytd uses 21.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-carmeet (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-catcafe
+[resources:cfx-gabz-c] Asset cfx-gabz-catcafe/denis3d_catcafe_txd.ytd uses 23.0 MiB of physical memory.
+[           resources] Started resource cfx-gabz-catcafe (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-import
+[           resources] Started resource cfx-gabz-import
+[    c-scripting-core] Creating script environments for cfx-gabz-impound
+[           resources] Started resource cfx-gabz-impound
+[    c-scripting-core] Creating script environments for cfx-gabz-pdprops
+[resources:cfx-gabz-p] Asset cfx-gabz-pdprops/gabz_pdprops01_txd.ytd uses 27.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pdprops (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pillbox
+[resources:cfx-gabz-p] Asset cfx-gabz-pillbox/gabz_pillbox_textures_01.ytd uses 24.8 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pillbox (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pizzeria
+[resources:cfx-gabz-p] Asset cfx-gabz-pizzeria/sm_pizzeria_txd_01.ytd uses 21.4 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pizzeria (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-suburban
+[           resources] Started resource cfx-gabz-suburban
+[    c-scripting-core] Creating script environments for cfx-gabz-tattoo
+[           resources] Started resource cfx-gabz-tattoo
+[    c-scripting-core] Creating script environments for cfx-gabz-townhall
+[resources:cfx-gabz-t] Asset cfx-gabz-townhall/gabz_townhall_txd.ytd uses 36.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-townhall (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-tuners
+[resources:cfx-gabz-t] Asset cfx-gabz-tuners/denis3d_tunershop_txd.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource cfx-gabz-tuners (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-vu
+[           resources] Started resource cfx-gabz-vu
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_detail_3.ydr uses 24.0 MiB of physical memory.
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_pipe.ytd uses 30.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorGarage (2 warnings)
+[           resources] Started resource vinewoodfloorLSPD
+[resources:vinewoodfl] Asset vinewoodfloorMain/slb2k11_vinewoodpd_mainfloor.ydr uses 24.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorMain (1 warning)
+[           resources] Started resource vinewoodfloorStairs
+[           resources] Started resource vinewoodfloorUG
+[    c-scripting-core] Creating script environments for 17mov_BuilderJob
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_BuilderCar.ytd uses 17.5 MiB of physical memory.
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_Mixer.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource 17mov_BuilderJob (2 warnings)
+[    c-scripting-core] Creating script environments for 17mov_Deliverer
+[resources:17mov_Deli] Asset 17mov_Deliverer/17mov_DeliveryCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_Deliverer (1 warning)
+[           resources] Started resource Howdy-Minigame
+[    c-scripting-core] Creating script environments for 17mov_Electrician
+[resources:17mov_Elec] Asset 17mov_Electrician/17mov_ElectricianCar.ytd uses 16.5 MiB of physical memory.
+[           resources] Started resource 17mov_Electrician (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_GruppeSechs
+[           resources] Started resource 17mov_GruppeSechs
+[    c-scripting-core] Creating script environments for 17mov_TreasureHunter
+[resources:17mov_Trea] Asset 17mov_TreasureHunter/17mov_treasureBoat.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource 17mov_TreasureHunter (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_WindowCleaning
+[resources:17mov_Wind] [0mAsset 17mov_WindowCleaning/17mov_WindowCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_WindowCleaning (1 warning)
+[resources:22b:stream] Asset 22b/22b.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 22b (1 warning)
+[ resources:69charger] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:69charger:] Asset 69charger/69charger.ytd uses 118.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 69charger (2 warnings)
+[resources:909seahawk] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Asset 909seahawk/909_seahawk.ytd uses 81.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 909seahawk (3 warnings)
+[resources:AMGE60:str] Asset AMGE60/AMGE60.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource AMGE60 (1 warning)
+[    resources:BMWM5P] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:BMWM5P:str] Asset BMWM5P/BMWM5P.ytd uses 82.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource BMWM5P (2 warnings)
+[      resources:F450] Warning: could not find file `dlctext.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `handling.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:F450:strea] Asset F450/F450.yft uses 24.8 MiB of virtual memory.
+[resources:F450:strea] Asset F450/F450.ytd uses 106.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:F450:strea] Asset F450/F450_hi.yft uses 24.8 MiB of virtual memory.
+[           resources] Started resource F450 (6 warnings)
+[resources:Ferrari812] Asset Ferrari812/f812.ytd uses 61.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource Ferrari812 (1 warning)
+[  resources:Marauder] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:Marauder:s] Asset Marauder/Marauder.yft uses 19.8 MiB of virtual memory.
+[resources:Marauder:s] Asset Marauder/Marauder.ytd uses 37.0 MiB of physical memory.
+[resources:Marauder:s] Asset Marauder/Marauder_HI.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource Marauder (4 warnings)
+[           resources] Started resource RageUI
+[      resources:SAHP] Warning: could not find client_script `client.lua` (defined in __resource.lua:17)
+[      resources:SAHP] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:SAHP:strea] Asset SAHP/hp1.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp1.ytd uses 218.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp1_hi.yft uses 18.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.ytd uses 185.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp2_hi.yft uses 17.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.yft uses 26.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.ytd uses 211.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp3_hi.yft uses 20.4 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.yft uses 24.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.ytd uses 158.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp4_hi.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.yft uses 20.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp5_hi.yft uses 16.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.yft uses 18.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp7.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7_hi.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp8.ytd uses 206.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp9.ytd uses 210.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource SAHP (26 warnings)
+[resources:SubaruSTI7] Asset SubaruSTI7/subarusti7.ytd uses 39.0 MiB of physical memory.
+[           resources] Started resource SubaruSTI7 (1 warning)
+[resources:ae86:strea] Asset ae86/ae86.yft uses 26.0 MiB of virtual memory.
+[resources:ae86:strea] Asset ae86/ae86.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ae86:strea] Asset ae86/ae86_hi.yft uses 26.0 MiB of virtual memory.
+[           resources] Started resource ae86 (3 warnings)
+[   resources:bmwx5mc] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:bmwx5mc:st] Asset bmwx5mc/bmwx5mc.ytd uses 39.5 MiB of physical memory.
+[           resources] Started resource bmwx5mc (2 warnings)
+[    resources:cb650r] Warning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:cb650r:str] Asset cb650r/cb650r.yft uses 18.8 MiB of virtual memory.
+[resources:cb650r:str] Asset cb650r/cb650r.ytd uses 33.5 MiB of physical memory.
+[resources:cb650r:str] Asset cb650r/cb650r_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource cb650r (4 warnings)
+[           resources] Started resource cd_drawtextui
+[           resources] Started resource cd_garageshell
+[    c-scripting-core] Creating script environments for cd_garage
+[           resources] Started resource cd_garage
+[           resources] Started resource cd_keymaster
+[resources:cgt:stream] Asset cgt/cgt.ytd uses 44.0 MiB of physical memory.
+[           resources] Started resource cgt (1 warning)
+[   resources:chall70] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:chall70:st] Asset chall70/chall70.ytd uses 38.5 MiB of physical memory.
+[           resources] Started resource chall70 (2 warnings)
+[    c-scripting-core] Creating script environments for codem-bank
+[           resources] Started resource codem-bank
+[           resources] Started resource cs_firstspawn
+[  resources:ct5vbw22] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.yft uses 29.8 MiB of virtual memory.
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.ytd uses 84.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource ct5vbw22 (4 warnings)
+[     resources:cyrus] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:cyrus:stre] Asset cyrus/cyrus.yft uses 18.5 MiB of virtual memory.
+[resources:cyrus:stre] Asset cyrus/cyrus.ytd uses 28.0 MiB of physical memory.
+[resources:cyrus:stre] Asset cyrus/cyrus_hi.yft uses 18.5 MiB of virtual memory.
+[           resources] Started resource cyrus (4 warnings)
+[resources:denalihd:s] Asset denalihd/denalihd.yft uses 30.0 MiB of virtual memory.
+[resources:denalihd:s] Asset denalihd/denalihd.ytd uses 43.0 MiB of physical memory.
+[resources:denalihd:s] Asset denalihd/denalihd_hi.yft uses 30.0 MiB of virtual memory.
+[           resources] Started resource denalihd (3 warnings)
+[    c-scripting-core] Creating script environments for drx_dw
+[           resources] Started resource drx_dw
+[    c-scripting-core] Creating script environments for drx_emdw
+[     script:drx_emdw] #########################################
+[     script:drx_emdw] [DRX - EMERGENCY MOBILE DATA WORKSTATION]
+[     script:drx_emdw] [Running version: 1.0.0.1]
+[     script:drx_emdw] #########################################
+[           resources] Started resource drx_emdw
+[    c-scripting-core] Creating script environments for drx_mdw
+[      script:drx_mdw] ###############################
+[      script:drx_mdw] [DRX - MOBILE DATA WORKSTATION]
+[      script:drx_mdw] [Running version: 1.2.1.5]
+[      script:drx_mdw] ###############################
+[           resources] Started resource drx_mdw
+[      resources:dv4r] Warning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:dv4r:strea] Asset dv4r/dv4r.ytd uses 168.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource dv4r (2 warnings)
+[    resources:e63amg] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[38;5;128m[resources:e63amg:str] Asset e63amg/e63amg.yft uses 25.2 MiB of virtual memory.
+[resources:e63amg:str] Asset e63amg/e63amg.ytd uses 63.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63amg:str] Asset e63amg/e63amg_hi.yft uses 25.2 MiB of virtual memory.
+[           resources] Started resource e63amg (4 warnings)
+[     resources:e63sf] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:e63sf:stre] Asset e63sf/e63sf.yft uses 26.5 MiB of virtual memory.
+[resources:e63sf:stre] Asset e63sf/e63sf.ytd uses 69.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63sf:stre] Asset e63sf/e63sf_hi.yft uses 26.5 MiB of virtual memory.
+[           resources] Started resource e63sf (4 warnings)
+[           resources] Started resource e78
+[       resources:ek9] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ek9:stream] Asset ek9/ek9.ytd uses 64.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ek9 (2 warnings)
+[   resources:emsfpiu] Warning: could not find client_script `data/vehicle_names.lua` (defined in __resource.lua:13)
+[resources:emsfpiu:st] Asset emsfpiu/qrv.yft uses 27.5 MiB of virtual memory.
+[resources:emsfpiu:st] Asset emsfpiu/qrv.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource emsfpiu (3 warnings)
+[resources:er34n:stre] Asset er34n/er34n.ytd uses 32.0 MiB of physical memory.
+[38;5;101m[resources:er34n:stre] Asset er34n/er34n_floormat_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_floormat_8.yft uses 32.0 MiB of physical memory.
+[38;5;101m[resources:er34n:stre] Asset er34n/er34n_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_17.yft uses 33.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_18.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_19.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_20.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_9.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_tuning.ytd uses 152.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource er34n (16 warnings)
+[     resources:evo10] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[38;5;148m[resources:evo10:stre] Asset evo10/evo10.yft uses 17.5 MiB of virtual memory.
+[resources:evo10:stre] Asset evo10/evo10.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource evo10 (3 warnings)
+[  resources:f450ambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:f450ambo] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[  resources:f450ambo] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:f450ambo:s] Asset f450ambo/f450ambo+hi.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo.yft uses 23.5 MiB of virtual memory.
+[resources:f450ambo:s] Asset f450ambo/f450ambo.ytd uses 71.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource f450ambo (7 warnings)
+[ resources:fd:stream] Asset fd/fd.ytd uses 43.5 MiB of physical memory.
+[           resources] Started resource fd (1 warning)
+[resources:firebird:s] Asset firebird/firebird.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource firebird (1 warning)
+[resources:fleet78:st] Asset fleet78/fleet78.ytd uses 26.0 MiB of physical memory.
+[resources:fleet78:st] Asset fleet78/fleet78low.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource fleet78 (2 warnings)
+[   resources:focusrs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:focusrs:st] Asset focusrs/focusrs.ytd uses 54.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource focusrs (2 warnings)
+[  resources:fordambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:fordambo:s] Asset fordambo/fordambo.yft uses 26.2 MiB of virtual memory.
+[resources:fordambo:s] Asset fordambo/fordambo.ytd uses 126.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:fordambo:s] Asset fordambo/fordambo_hi.yft uses 26.2 MiB of virtual memory.
+[           resources] Started resource fordambo (4 warnings)
+[   resources:foxgt24] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:foxgt24:st] Asset foxgt24/foxdh.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxdh.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxdh_hi.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxecb_hi.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.yft uses 31.0 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxgt24_hi.yft uses 31.0 MiB of virtual memory.
+[           resources] Started resource foxgt24 (10 warnings)
+[    c-scripting-core] Creating script environments for gks_ebay
+[           resources] Started resource gks_ebay
+[    c-scripting-core] Creating script environments for gks_gotur
+[           resources] Started resource gks_gotur
+[    c-scripting-core] Creating script environments for gks_racing
+[           resources] [0mStarted resource gks_racing
+[    c-scripting-core] Creating script environments for gks_rentacar
+[           resources] Started resource gks_rentacar
+[    c-scripting-core] Creating script environments for gksphone
+[    c-scripting-core] Failed to load script @qb-garages/config.lua.
+[           resources] Started resource gksphone
+[resources:glsbrabus8] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.yft uses 21.5 MiB of virtual memory.
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.ytd uses 73.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource glsbrabus800 (4 warnings)
+[           resources] Started resource gmcyd
+[resources:gmt900esca] Asset gmt900escalade/gmt900escalade.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource gmt900escalade (1 warning)
+[resources:gxg20:stre] Asset gxg20/gxg20.yft uses 21.8 MiB of virtual memory.
+[resources:gxg20:stre] Asset gxg20/gxg20.ytd uses 30.0 MiB of physical memory.
+[resources:gxg20:stre] Asset gxg20/gxg20_hi.yft uses 21.8 MiB of virtual memory.
+[           resources] Started resource gxg20 (3 warnings)
+[  resources:honcrx91] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:honcrx91:s] Asset honcrx91/honcrx91.ytd uses 40.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery1.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery2.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery3.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery4.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery5.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery6.yft uses 32.0 MiB of physical memory.
+[           resources] Started resource honcrx91 (8 warnings)
+[resources:is300:stre] Asset is300/is300.ytd uses 19.5 MiB of physical memory.
+[resources:is300:stre] [0mAsset is300/is300_seat_5_l.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_seat_5_r.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_16.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_9.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_tuning.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource is300 (13 warnings)
+[resources:jzx100:str] Asset jzx100/jzx100.yft uses 27.8 MiB of virtual memory.
+[resources:jzx100:str] Asset jzx100/jzx100.ytd uses 50.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:jzx100:str] Asset jzx100/jzx100_hi.yft uses 27.8 MiB of virtual memory.
+[           resources] Started resource jzx100 (3 warnings)
+[           resources] Started resource kc98gmls6
+[           resources] Started resource kc98gmls6sc
+[    c-scripting-core] Creating script environments for ks-multicharacter
+[           resources] [0mStarted resource ks-multicharacter
+[    c-scripting-core] Creating script environments for ks-scoreboard
+[           resources] Started resource ks-scoreboard
+[    c-scripting-core] Creating script environments for ks-spawn
+[           resources] Started resource ks-spawn
+[ resources:laferrari] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:laferrari:] Asset laferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[resources:laferrari:] Asset laferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:laferrari:] Asset laferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[38;5;83m[           resources] Started resource laferrari (4 warnings)
+[resources:lc500:stre] Asset lc500/lc500.ytd uses 36.0 MiB of physical memory.
+[           resources] Started resource lc500 (1 warning)
+[resources:lfa:stream] Asset lfa/lfa.yft uses 32.5 MiB of virtual memory.
+[resources:lfa:stream] Asset lfa/lfa.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:lfa:stream] Asset lfa/lfa_hi.yft uses 32.5 MiB of virtual memory.
+[           resources] Started resource lfa (3 warnings)
+[    c-scripting-core] Creating script environments for lvc
+[       resources:lvc] Warning: could not find client_script `/PLUGINS/**/SETTINGS.lua` (defined in fxmanifest.lua:42)
+[       resources:lvc] Warning: could not find server_script `/PLUGINS/**/sv_*.lua` (defined in fxmanifest.lua:79)
+[       resources:lvc] Warning: could not find file `PLUGINS/**/*.json` (defined in fxmanifest.lua:26)
+[           resources] Started resource lvc (3 warnings)
+[    c-scripting-core] Creating script environments for m-loadingscreen
+[resources:m-loadings] Warning: could not find file `html/assets/video/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/video/*.webm` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/**/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/**/*.ogg` (defined in fxmanifest.lua:19)
+[           resources] [0mStarted resource m-loadingscreen (4 warnings)
+[     resources:m3e36] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m3e36:stre] Asset m3e36/m3e36.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource m3e36 (2 warnings)
+[       resources:m4c] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4c:stream] Asset m4c/m4c.yft uses 31.1 MiB of virtual memory.
+[resources:m4c:stream] Asset m4c/m4c.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4c:stream] Asset m4c/m4c_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource m4c (4 warnings)
+[      resources:m4cs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4cs:strea] Asset m4cs/m4cs.yft uses 28.5 MiB of virtual memory.
+[resources:m4cs:strea] Asset m4cs/m4cs.ytd uses 70.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4cs:strea] Asset m4cs/m4cs_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource m4cs (4 warnings)
+[    resources:mbbs20] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:mbbs20] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbbs20:str] Asset mbbs20/mbbs20.ytd uses 88.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbbs20 (3 warnings)
+[     resources:mbc63] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbc63:stre] Asset mbc63/mbc63.ytd uses 74.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbc63 (2 warnings)
+[resources:medic22:st] Asset medic22/medic22.yft uses 31.1 MiB of virtual memory.
+[resources:medic22:st] Asset medic22/medic22.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:medic22:st] Asset medic22/medic22_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource medic22 (3 warnings)
+[      resources:mt09] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mt09:strea] Asset mt09/mt09.yft uses 21.5 MiB of virtual memory.
+[resources:mt09:strea] Asset mt09/mt09.ytd uses 24.0 MiB of physical memory.
+[resources:mt09:strea] Asset mt09/mt09_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource mt09 (4 warnings)
+[ resources:mustang65] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mustang65:] Asset mustang65/mustang65.ytd uses 31.5 MiB of physical memory.
+[           resources] Started resource mustang65 (2 warnings)
+[           resources] Started resource na1
+[resources:na6:stream] Asset na6/na6.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource na6 (1 warning)
+[resources:np-vehicle] Warning: could not find client_script `vehicle_names.lua` (defined in fxmanifest.lua:285)
+[resources:np-vehicle] Warning: could not find file `sfx/dlc_aventadorv12/aventadorv12_npc.awc` (defined in fxmanifest.lua:4)
+[           resources] Started resource np-vehicleaudio (2 warnings)
+[resources:npol:strea] Asset npol/npolchal.ytd uses 20.5 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolstang.ytd uses 18.8 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolvette.ytd uses 22.0 MiB of physical memory.
+[38;5;83m[           resources] Started resource npol (3 warnings)
+[resources:ocnetrongt] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.yft uses 24.9 MiB of virtual memory.
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt_hi.yft uses 24.9 MiB of virtual memory.
+[38;5;83m[           resources] Started resource ocnetrongt (4 warnings)
+[     resources:ody18] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[     resources:ody18] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ody18:stre] Asset ody18/ody18.ytd uses 42.5 MiB of physical memory.
+[           resources] Started resource ody18 (3 warnings)
+[resources:pcs18:stre] Asset pcs18/pcs18.yft uses 28.2 MiB of virtual memory.
+[resources:pcs18:stre] Asset pcs18/pcs18.ytd uses 16.8 MiB of physical memory.
+[resources:pcs18:stre] Asset pcs18/pcs18_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource pcs18 (3 warnings)
+[    resources:pgt322] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:pgt322] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt322:str] Asset pgt322/pgt322.ytd uses 148.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt322 (3 warnings)
+[  resources:pgt3rs19] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[  resources:pgt3rs19] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt3rs19:s] Asset pgt3rs19/pgt3rs19.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt3rs19 (3 warnings)
+[resources:police_add] Asset police_addon/13capricevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13capricevw.ytd uses 127.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/13fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13fpiuvw.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/14chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/14chargervw.ytd uses 161.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/16fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/16fpiuvw.ytd uses 181.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18chargervw.ytd uses 148.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18f150vw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18f150vw.ytd uses 200.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18tahoevw.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18tahoevw.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw_hi.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18taurusvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] [0mAsset police_addon/18taurusvw.ytd uses 163.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource police_addon (18 warnings)
+[   resources:porrs73] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:porrs73:st] Asset porrs73/porrs73.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource porrs73 (2 warnings)
+[    c-scripting-core] Creating script environments for ps-dispatch
+[  script:ps-dispatch] Autotheft	true	true
+[  script:ps-dispatch] Melee	true	true
+[  script:ps-dispatch] Speeding	true	true
+[  script:ps-dispatch] Shooting	true	true
+[  script:ps-dispatch] PlayerDowned	true	true
+[           resources] Started resource ps-dispatch
+[    c-scripting-core] Creating script environments for ps-hud
+[           resources] Started resource ps-hud
+[resources:pturismo:s] Asset pturismo/pturismo.yft uses 30.2 MiB of virtual memory.
+[resources:pturismo:s] Asset pturismo/pturismo.ytd uses 17.8 MiB of physical memory.
+[resources:pturismo:s] Asset pturismo/pturismo_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource pturismo (3 warnings)
+[resources:r34speedhu] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.yft uses 28.2 MiB of virtual memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.ytd uses 28.0 MiB of physical memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource r34speedhunter (5 warnings)
+[  resources:r35prior] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r35prior:s] Asset r35prior/r35prior.yft uses 31.9 MiB of virtual memory.
+[resources:r35prior:s] Asset r35prior/r35prior.ytd uses 192.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:r35prior:s] Asset r35prior/r35prior_hi.yft uses 31.9 MiB of virtual memory.
+[           resources] Started resource r35prior (4 warnings)
+[     resources:r8v10] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r8v10:stre] Asset r8v10/r8v10.yft uses 19.8 MiB of virtual memory.
+[resources:r8v10:stre] Asset r8v10/r8v10.ytd uses 42.0 MiB of physical memory.
+[resources:r8v10:stre] Asset r8v10/r8v10_hi.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource r8v10 (4 warnings)
+[resources:raptor2017] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:raptor2017] Asset raptor2017/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:raptor2017] Asset raptor2017/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_2.yft uses 20.8 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_4.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_raidint.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools.yft uses 24.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools2.yft uses 24.0 MiB of physical memory.
+[38;5;83m[           resources] Started resource raptor2017 (10 warnings)
+[resources:razerhycad] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:18)
+[resources:razerhycad] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[resources:razerhycad] Asset razerhycade34/razerhycade34.yft uses 28.5 MiB of virtual memory.
+[resources:razerhycad] Asset razerhycade34/razerhycade34.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:razerhycad] Asset razerhycade34/razerhycade34_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource razerhycade34 (5 warnings)
+[resources:rs318:stre] Asset rs318/rs318.yft uses 32.5 MiB of virtual memory.
+[resources:rs318:stre] Asset rs318/rs318.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs318:stre] Asset rs318/rs318_hi.yft uses 32.5 MiB of virtual memory.
+[resources:rs318:stre] Asset rs318/wheel_abt_01.ydr uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs318 (4 warnings)
+[    resources:rs3s20] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[    resources:rs3s20] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:rs3s20:str] Asset rs3s20/rs3s20.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/rs3s20.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs3s20:str] Asset rs3s20/rs3s20_hi.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/wheel_abt_03.ydr uses 32.0 MiB of physical memory.
+[           resources] Started resource rs3s20 (6 warnings)
+[  resources:rs4avant] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:rs4avant:s] Asset rs4avant/rs4avant.yft uses 30.2 MiB of virtual memory.
+[resources:rs4avant:s] Asset rs4avant/rs4avant.ytd uses 55.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs4avant:s] Asset rs4avant/rs4avant_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource rs4avant (4 warnings)
+[resources:rs62:strea] Asset rs62/rs62.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs62 (1 warning)
+[resources:rs7:stream] Asset rs7/rs7.yft uses 31.5 MiB of virtual memory.
+[resources:rs7:stream] Asset rs7/rs7.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7:stream] Asset rs7/rs7_hi.yft uses 31.5 MiB of virtual memory.
+[           resources] Started resource rs7 (3 warnings)
+[     resources:rs7c8] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.yft uses 23.5 MiB of virtual memory.
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.ytd uses 94.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7c8:stre] Asset rs7c8/rs7c8_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource rs7c8 (4 warnings)
+[resources:rx811:stre] Asset rx811/rx811.yft uses 26.8 MiB of virtual memory.
+[resources:rx811:stre] Asset rx811/rx811.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rx811 (2 warnings)
+[      resources:s63b] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:s63b:strea] Asset s63b/s63b.yft uses 29.8 MiB of virtual memory.
+[resources:s63b:strea] Asset s63b/s63b.ytd uses 56.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:s63b:strea] Asset s63b/s63b_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource s63b (4 warnings)
+[   resources:silvia3] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:silvia3:st] Asset silvia3/silvia3.yft uses 30.2 MiB of virtual memory.
+[38;5;190m[resources:silvia3:st] Asset silvia3/silvia3.ytd uses 98.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:silvia3:st] Asset silvia3/silvia3_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource silvia3 (4 warnings)
+[  resources:sr650fly] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:sr650fly] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[  resources:sr650fly] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:sr650fly:s] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource sr650fly (4 warnings)
+[      resources:ss69] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ss69:strea] Asset ss69/ss69.ytd uses 196.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ss69 (2 warnings)
+[           resources] Started resource subwrx
+[resources:tahoe:stre] Asset tahoe/tahoe.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource tahoe (1 warning)
+[    c-scripting-core] Creating script environments for teezy-Carrental
+[           resources] Started resource teezy-Carrental
+[   resources:teslapd] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[   resources:teslapd] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[   resources:teslapd] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:teslapd:st] Asset teslapd/teslapd.yft uses 22.4 MiB of virtual memory.
+[resources:teslapd:st] Asset teslapd/teslapd.ytd uses 37.5 MiB of physical memory.
+[resources:teslapd:st] Asset teslapd/teslapd_hi.yft uses 22.4 MiB of virtual memory.
+[           resources] Started resource teslapd (6 warnings)
+[resources:teslax:str] Asset teslax/teslax.yft uses 19.5 MiB of virtual memory.
+[resources:teslax:str] Asset teslax/teslax.ytd uses 115.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:teslax:str] Asset teslax/teslax_hi.yft uses 19.5 MiB of virtual memory.
+[           resources] Started resource teslax (3 warnings)
+[resources:vwpassat:s] Asset vwpassat/vwpasat.yft uses 29.2 MiB of virtual memory.
+[resources:vwpassat:s] Asset vwpassat/vwpasat.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:vwpassat:s] Asset vwpassat/vwpasat_hi.yft uses 29.2 MiB of virtual memory.
+[           resources] Started resource vwpassat (3 warnings)
+[           resources] Started resource wm-serversirens
+[     resources:xp210] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:xp210:stre] Asset xp210/xp210.ytd uses 65.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:xp210:stre] Asset xp210/xp210_hi.yft uses 23.2 MiB of virtual memory.
+[           resources] Started resource xp210 (3 warnings)
+[    c-scripting-core] Creating script environments for xsound
+[    resources:xsound] Warning: could not find file `html/sounds/*.ogg` (defined in fxmanifest.lua:35)
+[    resources:xsound] Warning: could not find file `html/sounds/*.mp3` (defined in fxmanifest.lua:35)
+[           resources] Started resource xsound (2 warnings)
+[resources:yukonxl:st] Asset yukonxl/yukonxl.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource yukonxl (1 warning)
+[resources:zl12017:st] Asset zl12017/zl12017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zl12017 (1 warning)
+[     resources:zx10r] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:27)
+[     resources:zx10r] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:12)
+[resources:zx10r:stre] Asset zx10r/zx10r.ytd uses 74.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zx10r (3 warnings)
+[      script:oxmysql] Database server connection established!
+[     script:rpemotes] [rpemotes] Current Version: 1.2.6
+[     script:rpemotes] [rpemotes] Latest Version: 1.2.6
+[     script:rpemotes] [rpemotes] You are running the latest version.
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[           resources] Stopping resource qb-weapons
+[script:ks-multichara] 
+[script:ks-multichara] Starting <qb-core> version of [ks-multicharacter]...
+[script:ks-multichara] 
+[script:ks-scoreboard] 
+[script:ks-scoreboard] Starting <qb-core> version of [ks-scoreboard]...
+[script:ks-scoreboard] 
+[     script:ks-spawn] 
+[     script:ks-spawn] Starting <qb-core> version of [ks-spawn]...
+[     script:ks-spawn] 
+[    script:cd_garage] [cd_garage] - Saving all cached data please wait....
+[    script:cd_garage] ----------------------------
+[    script:cd_garage] Automatically Inserting SQL.
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl] [0m                                     
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gilf911-kala66.users.cfx.re/
+[    script:cd_garage] SQL Inserted Successfully.
+[    script:cd_garage] --------------------------
+[          script:lvc] 
+[          script:lvc] 	 ________________________________________________________
+[          script:lvc] 	|	      __                       ___               |
+[          script:lvc] 	|	     / /       /\   /\        / __\              |
+[          script:lvc] 	|	    / /        \ \ / /       / /                 |
+[          script:lvc] 	|	   / /___       \ V /       / /___               |
+[          script:lvc] 	|	   \____/uxart   \_/ ehicle \____/ontrol         |
+[          script:lvc] 	|	                                                 |
+[          script:lvc] 	|	            COMMUNITY ID: AR                     |
+[          script:lvc] 	|	         INSTALLED VERSION: 3.2.8                |
+[          script:lvc] 	|	           LATEST VERSION:  3.2.9
+[          script:lvc]                 |
+[    script:cd_garage] [cd_garage] - Saved all cached data.
+[ script:ox_inventory] [info] Inventory has loaded 319 items
+[          script:lvc] 	|	             UPDATE REQUIRED                     |
+[          script:lvc] 	|                      DOWNLOAD AT:                      |
+[          script:lvc] 	| github.com/TrevorBarns/luxart-vehicle-control/releases |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 	|      Updates, Support, Feedback: discord.link/LVC      |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 
+[          script:lvc] 
+[   script:codem-bank] codem-bank:Framework object found : 	newqb
+[     script:gksphone] [GKSPHONE] You are using the current version!
+[    script:cd_garage] ===================================
+[    script:cd_garage] [cd_garage] - New Update Available.
+[    script:cd_garage] Current Version: 4.3.2.
+[    script:cd_garage] New Version: 4.3.3.
+[    script:cd_garage] Notes: bug fixes.
+[    script:cd_garage] ===================================
+[           resources] Stopping resource hardcap
+> convertinventory qb
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] Converting 3 user inventories to new data format
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] [93m=================================================================
+[ script:ox_inventory] Moving 0 trunks to the player_vehicles table
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] [93m=================================================================
+[ script:ox_inventory] Moving 0 gloveboxes to the player_vehicles table
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] Creating 0 evidence lockers from 0 lockers by merging duplicate locker numbers
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] =================================================================
+[ script:ox_inventory] Successfully converted user and vehicle inventories
+[ script:ox_inventory] =================================================================
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂gilf911＂,＂message＂:＂Server genstarter: (requested by gilf911).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 6/5/2023, 7:51:10 PM               
+================================================================
+Could not register with breakpad server.
+[    c-scripting-core] Creating script environments for _cfx_internal
+[           resources] Scanning resources.
+[   resources:billyde] Warning: billyde does not have a resource manifest (fxmanifest.lua)
+[   resources:mt09eng] Warning: mt09eng does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 230 resources.
+[           resources] 2 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.0 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] The file myLogo.gif is not a PNG file.
+[    c-scripting-core] [0mCreating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] [97mCreating script environments for ox_lib
+[           resources] [97mStarted resource ox_lib
+[    c-scripting-core] [97mCreating script environments for qb-core
+[           resources] Started resource qb-core
+[    c-scripting-core] Creating script environments for ox_inventory
+[           resources] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for illenium-appearance
+[           resources] Started resource illenium-appearance
+[           resources] Started resource menuv
+[    c-scripting-core] Creating script environments for qb-adminmenu
+[           resources] [0mStarted resource qb-adminmenu
+[    c-scripting-core] Creating script environments for qb-ambulancejob
+[           resources] Started resource qb-ambulancejob
+[           resources] Started resource qb-interior
+[    c-scripting-core] Creating script environments for qb-weathersync
+[           resources] Started resource qb-weathersync
+[    c-scripting-core] [0mCreating script environments for qb-apartments
+[           resources] Started resource qb-apartments
+[    c-scripting-core] Creating script environments for PolyZone
+[           resources] Started resource PolyZone
+[    c-scripting-core] Creating script environments for qb-bankrobbery
+[           resources] Started resource qb-bankrobbery
+[    c-scripting-core] Creating script environments for qb-busjob
+[           resources] [0mStarted resource qb-busjob
+[    c-scripting-core] Creating script environments for qb-cityhall
+[           resources] Started resource qb-cityhall
+[    c-scripting-core] Creating script environments for qb-doorlock
+[           resources] Started resource qb-doorlock
+[    c-scripting-core] Creating script environments for qb-fitbit
+[           resources] Started resource qb-fitbit
+[    c-scripting-core] Creating script environments for qb-garbagejob
+[           resources] Started resource qb-garbagejob
+[    c-scripting-core] Creating script environments for qb-hotdogjob
+[           resources] Started resource qb-hotdogjob
+[           resources] Started resource qb-lockpick
+[           resources] Started resource qb-skillbar
+[    c-scripting-core] Creating script environments for qb-houserobbery
+[           resources] Started resource qb-houserobbery
+[    c-scripting-core] Creating script environments for qb-houses
+[           resources] Started resource qb-houses
+[           resources] Started resource qb-input
+[    c-scripting-core] Creating script environments for qb-jewelery
+[           resources] Started resource qb-jewelery
+[           resources] Started resource qb-keyminigame
+[    c-scripting-core] Creating script environments for qb-lapraces
+[           resources] Started resource qb-lapraces
+[    c-scripting-core] Creating script environments for qb-management
+[           resources] Started resource qb-management
+[    c-scripting-core] Creating script environments for qb-mechanicjob
+[           resources] Started resource qb-mechanicjob
+[           resources] Started resource qb-menu
+[    c-scripting-core] Creating script environments for qb-pawnshop
+[           resources] Started resource qb-pawnshop
+[    c-scripting-core] Creating script environments for qb-policejob
+[           resources] Started resource qb-policejob
+[    c-scripting-core] Creating script environments for qb-prison
+[           resources] Started resource qb-prison
+[    c-scripting-core] Creating script environments for qb-radialmenu
+[           resources] Started resource qb-radialmenu
+[    c-scripting-core] Creating script environments for qb-recyclejob
+[           resources] Started resource qb-recyclejob
+[    c-scripting-core] Creating script environments for qb-scrapyard
+[           resources] Started resource qb-scrapyard
+[    c-scripting-core] Creating script environments for qb-smallresources
+[           resources] Started resource qb-smallresources
+[    c-scripting-core] Creating script environments for qb-storerobbery
+[           resources] [0mStarted resource qb-storerobbery
+[           resources] Started resource qb-target
+[    c-scripting-core] Creating script environments for qb-taxijob
+[           resources] Started resource qb-taxijob
+[    c-scripting-core] Creating script environments for qb-towjob
+[           resources] Started resource qb-towjob
+[    c-scripting-core] Creating script environments for qb-truckrobbery
+[           resources] Started resource qb-truckrobbery
+[    c-scripting-core] Creating script environments for qb-tunerchip
+[           resources] Started resource qb-tunerchip
+[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[           resources] Started resource qb-vehiclefailure
+[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[           resources] Started resource qb-vehiclekeys
+[    c-scripting-core] Creating script environments for qb-vehiclesales
+[           resources] Started resource qb-vehiclesales
+[    c-scripting-core] Creating script environments for qb-vehicleshop
+[           resources] Started resource qb-vehicleshop
+[    c-scripting-core] Creating script environments for qb-weapons
+[           resources] Started resource qb-weapons
+[    c-scripting-core] Creating script environments for LegacyFuel
+[           resources] Started resource LegacyFuel
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for discordqueue
+[           resources] Started resource discordqueue
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[           resources] Started resource mhacking
+[           resources] Started resource progressbar
+[    c-scripting-core] Creating script environments for rpemotes
+[     script:rpemotes] RpEmotes by TayMcKenzieNZ, Mathhu_Imn & MadsL loaded sucessfully.
+[     script:rpemotes] [rp] Sql Keybinding is turned off, if you want to enable /emotebind, set SqlKeybinding = true in config.lua and uncomment oxmysql lines in fxmanifest.lua.
+[           resources] Started resource rpemotes
+[38;5;83m[           resources] Started resource safecracker
+[    c-scripting-core] [0mCreating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] [0mStarted resource pma-voice
+[    c-scripting-core] [0mCreating script environments for qb-radio
+[           resources] Started resource qb-radio
+[    c-scripting-core] Creating script environments for cfx-gabz-mapdata
+[           resources] Started resource cfx-gabz-mapdata
+[    c-scripting-core] Creating script environments for cfx-gabz-247
+[           resources] Started resource cfx-gabz-247
+[    c-scripting-core] Creating script environments for cfx-gabz-ammunation
+[38;5;83m[           resources] Started resource cfx-gabz-ammunation
+[    c-scripting-core] Creating script environments for cfx-gabz-beanmachine
+[           resources] Started resource cfx-gabz-beanmachine
+[    c-scripting-core] Creating script environments for cfx-gabz-bennys
+[38;5;28m[resources:cfx-gabz-b] Asset cfx-gabz-bennys/gabz_bennys_images_txd.ytd uses 20.0 MiB of physical memory.
+[resources:cfx-gabz-b] Asset cfx-gabz-bennys/gabz_bennys_txd.ytd uses 25.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-bennys (2 warnings)
+[    c-scripting-core] Creating script environments for cfx-gabz-carmeet
+[resources:cfx-gabz-c] Asset cfx-gabz-carmeet/gabz_tuner_car_meet_txd.ytd uses 21.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-carmeet (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-catcafe
+[resources:cfx-gabz-c] Asset cfx-gabz-catcafe/denis3d_catcafe_txd.ytd uses 23.0 MiB of physical memory.
+[           resources] Started resource cfx-gabz-catcafe (1 warning)
+[38;5;161m[    c-scripting-core] Creating script environments for cfx-gabz-import
+[           resources] Started resource cfx-gabz-import
+[    c-scripting-core] Creating script environments for cfx-gabz-impound
+[           resources] Started resource cfx-gabz-impound
+[    c-scripting-core] Creating script environments for cfx-gabz-pdprops
+[38;5;99m[resources:cfx-gabz-p] Asset cfx-gabz-pdprops/gabz_pdprops01_txd.ytd uses 27.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pdprops (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pillbox
+[resources:cfx-gabz-p] Asset cfx-gabz-pillbox/gabz_pillbox_textures_01.ytd uses 24.8 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pillbox (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-pizzeria
+[resources:cfx-gabz-p] Asset cfx-gabz-pizzeria/sm_pizzeria_txd_01.ytd uses 21.4 MiB of physical memory.
+[           resources] Started resource cfx-gabz-pizzeria (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-suburban
+[           resources] Started resource cfx-gabz-suburban
+[    c-scripting-core] Creating script environments for cfx-gabz-tattoo
+[           resources] Started resource cfx-gabz-tattoo
+[    c-scripting-core] Creating script environments for cfx-gabz-townhall
+[resources:cfx-gabz-t] Asset cfx-gabz-townhall/gabz_townhall_txd.ytd uses 36.5 MiB of physical memory.
+[           resources] Started resource cfx-gabz-townhall (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-tuners
+[resources:cfx-gabz-t] [94mAsset cfx-gabz-tuners/denis3d_tunershop_txd.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource cfx-gabz-tuners (1 warning)
+[    c-scripting-core] Creating script environments for cfx-gabz-vu
+[           resources] Started resource cfx-gabz-vu
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_detail_3.ydr uses 24.0 MiB of physical memory.
+[resources:vinewoodfl] Asset vinewoodfloorGarage/slb2k11_vinewood_garage_pipe.ytd uses 30.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorGarage (2 warnings)
+[           resources] Started resource vinewoodfloorLSPD
+[resources:vinewoodfl] Asset vinewoodfloorMain/slb2k11_vinewoodpd_mainfloor.ydr uses 24.0 MiB of physical memory.
+[           resources] Started resource vinewoodfloorMain (1 warning)
+[           resources] Started resource vinewoodfloorStairs
+[           resources] Started resource vinewoodfloorUG
+[    c-scripting-core] Creating script environments for 17mov_BuilderJob
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_BuilderCar.ytd uses 17.5 MiB of physical memory.
+[resources:17mov_Buil] Asset 17mov_BuilderJob/17mov_Mixer.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource 17mov_BuilderJob (2 warnings)
+[    c-scripting-core] Creating script environments for 17mov_Deliverer
+[resources:17mov_Deli] Asset 17mov_Deliverer/17mov_DeliveryCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_Deliverer (1 warning)
+[           resources] Started resource Howdy-Minigame
+[    c-scripting-core] Creating script environments for 17mov_Electrician
+[resources:17mov_Elec] Asset 17mov_Electrician/17mov_ElectricianCar.ytd uses 16.5 MiB of physical memory.
+[           resources] Started resource 17mov_Electrician (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_GruppeSechs
+[           resources] Started resource 17mov_GruppeSechs
+[    c-scripting-core] Creating script environments for 17mov_TreasureHunter
+[resources:17mov_Trea] Asset 17mov_TreasureHunter/17mov_treasureBoat.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource 17mov_TreasureHunter (1 warning)
+[    c-scripting-core] Creating script environments for 17mov_WindowCleaning
+[resources:17mov_Wind] Asset 17mov_WindowCleaning/17mov_WindowCar.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource 17mov_WindowCleaning (1 warning)
+[resources:22b:stream] Asset 22b/22b.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 22b (1 warning)
+[ resources:69charger] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:69charger:] Asset 69charger/69charger.ytd uses 118.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 69charger (2 warnings)
+[resources:909seahawk] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:909seahawk] Asset 909seahawk/909_seahawk.ytd uses 81.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource 909seahawk (3 warnings)
+[resources:AMGE60:str] Asset AMGE60/AMGE60.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource AMGE60 (1 warning)
+[    resources:BMWM5P] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:BMWM5P:str] Asset BMWM5P/BMWM5P.ytd uses 82.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource BMWM5P (2 warnings)
+[      resources:F450] [93mWarning: could not find file `dlctext.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `handling.meta` (defined in fxmanifest.lua:3)
+[      resources:F450] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:F450:strea] Asset F450/F450.yft uses 24.8 MiB of virtual memory.
+[resources:F450:strea] Asset F450/F450.ytd uses 106.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:F450:strea] Asset F450/F450_hi.yft uses 24.8 MiB of virtual memory.
+[           resources] Started resource F450 (6 warnings)
+[resources:Ferrari812] Asset Ferrari812/f812.ytd uses 61.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource Ferrari812 (1 warning)
+[  resources:Marauder] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:Marauder:s] Asset Marauder/Marauder.yft uses 19.8 MiB of virtual memory.
+[resources:Marauder:s] Asset Marauder/Marauder.ytd uses 37.0 MiB of physical memory.
+[resources:Marauder:s] Asset Marauder/Marauder_HI.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource Marauder (4 warnings)
+[           resources] Started resource RageUI
+[      resources:SAHP] Warning: could not find client_script `client.lua` (defined in __resource.lua:17)
+[      resources:SAHP] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:SAHP:strea] Asset SAHP/hp1.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp1.ytd uses 218.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp1_hi.yft uses 18.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp2.ytd uses 185.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp2_hi.yft uses 17.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.yft uses 26.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp3.ytd uses 211.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp3_hi.yft uses 20.4 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.yft uses 24.9 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp4.ytd uses 158.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp4_hi.yft uses 21.5 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.yft uses 20.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp5.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp5_hi.yft uses 16.8 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.yft uses 18.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp6.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp7.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp7_hi.yft uses 26.2 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp8.ytd uses 206.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9.yft uses 23.0 MiB of virtual memory.
+[resources:SAHP:strea] Asset SAHP/hp9.ytd uses 210.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:SAHP:strea] Asset SAHP/hp9_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource SAHP (26 warnings)
+[resources:SubaruSTI7] Asset SubaruSTI7/subarusti7.ytd uses 39.0 MiB of physical memory.
+[           resources] Started resource SubaruSTI7 (1 warning)
+[resources:ae86:strea] [0mAsset ae86/ae86.yft uses 26.0 MiB of virtual memory.
+[resources:ae86:strea] Asset ae86/ae86.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ae86:strea] Asset ae86/ae86_hi.yft uses 26.0 MiB of virtual memory.
+[           resources] Started resource ae86 (3 warnings)
+[   resources:bmwx5mc] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:bmwx5mc:st] Asset bmwx5mc/bmwx5mc.ytd uses 39.5 MiB of physical memory.
+[           resources] Started resource bmwx5mc (2 warnings)
+[    resources:cb650r] Warning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:cb650r:str] Asset cb650r/cb650r.yft uses 18.8 MiB of virtual memory.
+[resources:cb650r:str] Asset cb650r/cb650r.ytd uses 33.5 MiB of physical memory.
+[resources:cb650r:str] Asset cb650r/cb650r_hi.yft uses 18.8 MiB of virtual memory.
+[           resources] Started resource cb650r (4 warnings)
+[           resources] Started resource cd_drawtextui
+[           resources] Started resource cd_garageshell
+[    c-scripting-core] Creating script environments for cd_garage
+[           resources] Started resource cd_garage
+[           resources] Started resource cd_keymaster
+[resources:cgt:stream] Asset cgt/cgt.ytd uses 44.0 MiB of physical memory.
+[           resources] Started resource cgt (1 warning)
+[   resources:chall70] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:chall70:st] Asset chall70/chall70.ytd uses 38.5 MiB of physical memory.
+[38;5;83m[           resources] Started resource chall70 (2 warnings)
+[    c-scripting-core] Creating script environments for codem-bank
+[           resources] Started resource codem-bank
+[           resources] Started resource cs_firstspawn
+[  resources:ct5vbw22] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.yft uses 29.8 MiB of virtual memory.
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22.ytd uses 84.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ct5vbw22:s] Asset ct5vbw22/ct5vbw22_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource ct5vbw22 (4 warnings)
+[     resources:cyrus] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:cyrus:stre] Asset cyrus/cyrus.yft uses 18.5 MiB of virtual memory.
+[resources:cyrus:stre] Asset cyrus/cyrus.ytd uses 28.0 MiB of physical memory.
+[resources:cyrus:stre] Asset cyrus/cyrus_hi.yft uses 18.5 MiB of virtual memory.
+[           resources] Started resource cyrus (4 warnings)
+[resources:denalihd:s] Asset denalihd/denalihd.yft uses 30.0 MiB of virtual memory.
+[resources:denalihd:s] Asset denalihd/denalihd.ytd uses 43.0 MiB of physical memory.
+[resources:denalihd:s] Asset denalihd/denalihd_hi.yft uses 30.0 MiB of virtual memory.
+[           resources] [0mStarted resource denalihd (3 warnings)
+[    c-scripting-core] Creating script environments for drx_dw
+[           resources] Started resource drx_dw
+[    c-scripting-core] Creating script environments for drx_emdw
+[     script:drx_emdw] #########################################
+[     script:drx_emdw] [DRX - EMERGENCY MOBILE DATA WORKSTATION]
+[     script:drx_emdw] [Running version: 1.0.0.1]
+[     script:drx_emdw] #########################################
+[           resources] Started resource drx_emdw
+[    c-scripting-core] Creating script environments for drx_mdw
+[      script:drx_mdw] ###############################
+[      script:drx_mdw] [DRX - MOBILE DATA WORKSTATION]
+[      script:drx_mdw] [Running version: 1.2.1.5]
+[      script:drx_mdw] ###############################
+[           resources] Started resource drx_mdw
+[      resources:dv4r] [97mWarning: could not find file `data/**/vehiclelayouts.meta` (defined in __resource.lua:4)
+[resources:dv4r:strea] Asset dv4r/dv4r.ytd uses 168.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource dv4r (2 warnings)
+[    resources:e63amg] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:e63amg:str] Asset e63amg/e63amg.yft uses 25.2 MiB of virtual memory.
+[resources:e63amg:str] Asset e63amg/e63amg.ytd uses 63.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63amg:str] Asset e63amg/e63amg_hi.yft uses 25.2 MiB of virtual memory.
+[           resources] Started resource e63amg (4 warnings)
+[     resources:e63sf] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:e63sf:stre] Asset e63sf/e63sf.yft uses 26.5 MiB of virtual memory.
+[resources:e63sf:stre] Asset e63sf/e63sf.ytd uses 69.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:e63sf:stre] Asset e63sf/e63sf_hi.yft uses 26.5 MiB of virtual memory.
+[           resources] Started resource e63sf (4 warnings)
+[           resources] [0mStarted resource e78
+[       resources:ek9] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ek9:stream] [0mAsset ek9/ek9.ytd uses 64.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ek9 (2 warnings)
+[   resources:emsfpiu] Warning: could not find client_script `data/vehicle_names.lua` (defined in __resource.lua:13)
+[resources:emsfpiu:st] Asset emsfpiu/qrv.yft uses 27.5 MiB of virtual memory.
+[resources:emsfpiu:st] Asset emsfpiu/qrv.ytd uses 65.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] [0mStarted resource emsfpiu (3 warnings)
+[resources:er34n:stre] Asset er34n/er34n.ytd uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_floormat_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_floormat_8.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_17.yft uses 33.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_18.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_19.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_20.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_steering_9.yft uses 32.0 MiB of physical memory.
+[resources:er34n:stre] Asset er34n/er34n_tuning.ytd uses 152.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource er34n (16 warnings)
+[     resources:evo10] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:evo10:stre] Asset evo10/evo10.yft uses 17.5 MiB of virtual memory.
+[resources:evo10:stre] Asset evo10/evo10.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource evo10 (3 warnings)
+[38;5;81m[  resources:f450ambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:f450ambo] Warning: could not find file `handling.meta` (defined in __resource.lua:3)
+[  resources:f450ambo] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:f450ambo:s] Asset f450ambo/f450ambo+hi.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo.yft uses 23.5 MiB of virtual memory.
+[resources:f450ambo:s] Asset f450ambo/f450ambo.ytd uses 71.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:f450ambo:s] Asset f450ambo/f450ambo_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource f450ambo (7 warnings)
+[ resources:fd:stream] Asset fd/fd.ytd uses 43.5 MiB of physical memory.
+[           resources] Started resource fd (1 warning)
+[resources:firebird:s] Asset firebird/firebird.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource firebird (1 warning)
+[resources:fleet78:st] Asset fleet78/fleet78.ytd uses 26.0 MiB of physical memory.
+[resources:fleet78:st] Asset fleet78/fleet78low.ytd uses 26.5 MiB of physical memory.
+[           resources] Started resource fleet78 (2 warnings)
+[   resources:focusrs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:focusrs:st] Asset focusrs/focusrs.ytd uses 54.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource focusrs (2 warnings)
+[  resources:fordambo] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[resources:fordambo:s] Asset fordambo/fordambo.yft uses 26.2 MiB of virtual memory.
+[resources:fordambo:s] Asset fordambo/fordambo.ytd uses 126.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:fordambo:s] Asset fordambo/fordambo_hi.yft uses 26.2 MiB of virtual memory.
+[           resources] Started resource fordambo (4 warnings)
+[   resources:foxgt24] [0mWarning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:foxgt24:st] Asset foxgt24/foxdh.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxdh.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxdh_hi.yft uses 31.8 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxecb.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxecb_hi.yft uses 29.2 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.yft uses 31.0 MiB of virtual memory.
+[resources:foxgt24:st] Asset foxgt24/foxgt24.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:foxgt24:st] Asset foxgt24/foxgt24_hi.yft uses 31.0 MiB of virtual memory.
+[           resources] Started resource foxgt24 (10 warnings)
+[    c-scripting-core] Creating script environments for gks_ebay
+[           resources] Started resource gks_ebay
+[    c-scripting-core] Creating script environments for gks_gotur
+[           resources] Started resource gks_gotur
+[    c-scripting-core] Creating script environments for gks_racing
+[           resources] Started resource gks_racing
+[    c-scripting-core] [0mCreating script environments for gks_rentacar
+[           resources] Started resource gks_rentacar
+[    c-scripting-core] Creating script environments for gksphone
+[    c-scripting-core] Failed to load script @qb-garages/config.lua.
+[           resources] Started resource gksphone
+[resources:glsbrabus8] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.yft uses 21.5 MiB of virtual memory.
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800.ytd uses 73.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:glsbrabus8] Asset glsbrabus800/glsbrabus800_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource glsbrabus800 (4 warnings)
+[           resources] Started resource gmcyd
+[resources:gmt900esca] Asset gmt900escalade/gmt900escalade.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource gmt900escalade (1 warning)
+[resources:gxg20:stre] Asset gxg20/gxg20.yft uses 21.8 MiB of virtual memory.
+[resources:gxg20:stre] Asset gxg20/gxg20.ytd uses 30.0 MiB of physical memory.
+[resources:gxg20:stre] Asset gxg20/gxg20_hi.yft uses 21.8 MiB of virtual memory.
+[           resources] Started resource gxg20 (3 warnings)
+[  resources:honcrx91] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:honcrx91:s] Asset honcrx91/honcrx91.ytd uses 40.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery1.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery2.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery3.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery4.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery5.yft uses 32.0 MiB of physical memory.
+[resources:honcrx91:s] Asset honcrx91/honcrx91_livery6.yft uses 32.0 MiB of physical memory.
+[           resources] Started resource honcrx91 (8 warnings)
+[resources:is300:stre] [94mAsset is300/is300.ytd uses 19.5 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_seat_5_l.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] [0mAsset is300/is300_seat_5_r.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_10.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_11.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_12.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_13.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_14.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_15.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_16.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_4.yft uses 36.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_steering_9.yft uses 32.0 MiB of physical memory.
+[resources:is300:stre] Asset is300/is300_tuning.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource is300 (13 warnings)
+[resources:jzx100:str] Asset jzx100/jzx100.yft uses 27.8 MiB of virtual memory.
+[resources:jzx100:str] Asset jzx100/jzx100.ytd uses 50.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:jzx100:str] Asset jzx100/jzx100_hi.yft uses 27.8 MiB of virtual memory.
+[           resources] Started resource jzx100 (3 warnings)
+[           resources] Started resource kc98gmls6
+[           resources] Started resource kc98gmls6sc
+[    c-scripting-core] Creating script environments for ks-multicharacter
+[           resources] [0mStarted resource ks-multicharacter
+[    c-scripting-core] Creating script environments for ks-scoreboard
+[           resources] Started resource ks-scoreboard
+[    c-scripting-core] Creating script environments for ks-spawn
+[           resources] Started resource ks-spawn
+[ resources:laferrari] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:laferrari:] Asset laferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[resources:laferrari:] Asset laferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:laferrari:] Asset laferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[           resources] Started resource laferrari (4 warnings)
+[resources:lc500:stre] Asset lc500/lc500.ytd uses 36.0 MiB of physical memory.
+[           resources] Started resource lc500 (1 warning)
+[resources:lfa:stream] Asset lfa/lfa.yft uses 32.5 MiB of virtual memory.
+[resources:lfa:stream] Asset lfa/lfa.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:lfa:stream] Asset lfa/lfa_hi.yft uses 32.5 MiB of virtual memory.
+[           resources] Started resource lfa (3 warnings)
+[    c-scripting-core] Creating script environments for lvc
+[       resources:lvc] Warning: could not find client_script `/PLUGINS/**/SETTINGS.lua` (defined in fxmanifest.lua:42)
+[       resources:lvc] Warning: could not find server_script `/PLUGINS/**/sv_*.lua` (defined in fxmanifest.lua:79)
+[       resources:lvc] Warning: could not find file `PLUGINS/**/*.json` (defined in fxmanifest.lua:26)
+[           resources] Started resource lvc (3 warnings)
+[    c-scripting-core] Creating script environments for m-loadingscreen
+[resources:m-loadings] [0mWarning: could not find file `html/assets/video/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/video/*.webm` (defined in fxmanifest.lua:19)
+[resources:m-loadings] [93mWarning: could not find file `html/assets/**/*.mp4` (defined in fxmanifest.lua:19)
+[resources:m-loadings] Warning: could not find file `html/assets/**/*.ogg` (defined in fxmanifest.lua:19)
+[           resources] Started resource m-loadingscreen (4 warnings)
+[     resources:m3e36] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m3e36:stre] Asset m3e36/m3e36.ytd uses 136.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource m3e36 (2 warnings)
+[       resources:m4c] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4c:stream] Asset m4c/m4c.yft uses 31.1 MiB of virtual memory.
+[resources:m4c:stream] Asset m4c/m4c.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4c:stream] Asset m4c/m4c_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource m4c (4 warnings)
+[      resources:m4cs] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:m4cs:strea] Asset m4cs/m4cs.yft uses 28.5 MiB of virtual memory.
+[resources:m4cs:strea] Asset m4cs/m4cs.ytd uses 70.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:m4cs:strea] Asset m4cs/m4cs_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource m4cs (4 warnings)
+[    resources:mbbs20] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:mbbs20] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbbs20:str] Asset mbbs20/mbbs20.ytd uses 88.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbbs20 (3 warnings)
+[     resources:mbc63] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mbc63:stre] Asset mbc63/mbc63.ytd uses 74.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource mbc63 (2 warnings)
+[resources:medic22:st] Asset medic22/medic22.yft uses 31.1 MiB of virtual memory.
+[resources:medic22:st] Asset medic22/medic22.ytd uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:medic22:st] Asset medic22/medic22_hi.yft uses 31.1 MiB of virtual memory.
+[           resources] Started resource medic22 (3 warnings)
+[      resources:mt09] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mt09:strea] Asset mt09/mt09.yft uses 21.5 MiB of virtual memory.
+[resources:mt09:strea] Asset mt09/mt09.ytd uses 24.0 MiB of physical memory.
+[resources:mt09:strea] Asset mt09/mt09_hi.yft uses 21.5 MiB of virtual memory.
+[           resources] Started resource mt09 (4 warnings)
+[ resources:mustang65] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:mustang65:] Asset mustang65/mustang65.ytd uses 31.5 MiB of physical memory.
+[           resources] Started resource mustang65 (2 warnings)
+[           resources] Started resource na1
+[resources:na6:stream] Asset na6/na6.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource na6 (1 warning)
+[resources:np-vehicle] Warning: could not find client_script `vehicle_names.lua` (defined in fxmanifest.lua:285)
+[resources:np-vehicle] Warning: could not find file `sfx/dlc_aventadorv12/aventadorv12_npc.awc` (defined in fxmanifest.lua:4)
+[           resources] Started resource np-vehicleaudio (2 warnings)
+[resources:npol:strea] Asset npol/npolchal.ytd uses 20.5 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolstang.ytd uses 18.8 MiB of physical memory.
+[resources:npol:strea] Asset npol/npolvette.ytd uses 22.0 MiB of physical memory.
+[           resources] Started resource npol (3 warnings)
+[resources:ocnetrongt] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.yft uses 24.9 MiB of virtual memory.
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:ocnetrongt] Asset ocnetrongt/ocnetrongt_hi.yft uses 24.9 MiB of virtual memory.
+[           resources] Started resource ocnetrongt (4 warnings)
+[     resources:ody18] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[     resources:ody18] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ody18:stre] Asset ody18/ody18.ytd uses 42.5 MiB of physical memory.
+[           resources] Started resource ody18 (3 warnings)
+[resources:pcs18:stre] Asset pcs18/pcs18.yft uses 28.2 MiB of virtual memory.
+[resources:pcs18:stre] Asset pcs18/pcs18.ytd uses 16.8 MiB of physical memory.
+[resources:pcs18:stre] Asset pcs18/pcs18_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource pcs18 (3 warnings)
+[    resources:pgt322] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[    resources:pgt322] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt322:str] Asset pgt322/pgt322.ytd uses 148.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt322 (3 warnings)
+[  resources:pgt3rs19] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[  resources:pgt3rs19] [0mWarning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:pgt3rs19:s] Asset pgt3rs19/pgt3rs19.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource pgt3rs19 (3 warnings)
+[resources:police_add] Asset police_addon/13capricevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13capricevw.ytd uses 127.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/13fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/13fpiuvw.ytd uses 173.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/14chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/14chargervw.ytd uses 161.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/16fpiuvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/16fpiuvw.ytd uses 181.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18chargervw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18chargervw.ytd uses 148.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18f150vw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18f150vw.ytd uses 200.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18tahoevw.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18tahoevw.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:police_add] Asset police_addon/18tahoevw_hi.yft uses 17.5 MiB of virtual memory.
+[resources:police_add] Asset police_addon/18taurusvw+hi.ytd uses 48.0 MiB of physical memory.
+[resources:police_add] Asset police_addon/18taurusvw.ytd uses 163.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource police_addon (18 warnings)
+[   resources:porrs73] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:porrs73:st] Asset porrs73/porrs73.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource porrs73 (2 warnings)
+[    c-scripting-core] Creating script environments for ps-dispatch
+[  script:ps-dispatch] Autotheft	true	true
+[  script:ps-dispatch] Melee	true	true
+[  script:ps-dispatch] PlayerDowned	true	true
+[  script:ps-dispatch] Speeding	true	true
+[  script:ps-dispatch] Shooting	true	true
+[           resources] Started resource ps-dispatch
+[    c-scripting-core] Creating script environments for ps-hud
+[           resources] Started resource ps-hud
+[resources:pturismo:s] Asset pturismo/pturismo.yft uses 30.2 MiB of virtual memory.
+[resources:pturismo:s] Asset pturismo/pturismo.ytd uses 17.8 MiB of physical memory.
+[resources:pturismo:s] Asset pturismo/pturismo_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource pturismo (3 warnings)
+[resources:r34speedhu] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.yft uses 28.2 MiB of virtual memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter.ytd uses 28.0 MiB of physical memory.
+[resources:r34speedhu] Asset r34speedhunter/r34speedhunter_hi.yft uses 28.2 MiB of virtual memory.
+[           resources] Started resource r34speedhunter (5 warnings)
+[  resources:r35prior] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r35prior:s] Asset r35prior/r35prior.yft uses 31.9 MiB of virtual memory.
+[resources:r35prior:s] [0mAsset r35prior/r35prior.ytd uses 192.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:r35prior:s] Asset r35prior/r35prior_hi.yft uses 31.9 MiB of virtual memory.
+[           resources] Started resource r35prior (4 warnings)
+[     resources:r8v10] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:r8v10:stre] Asset r8v10/r8v10.yft uses 19.8 MiB of virtual memory.
+[resources:r8v10:stre] Asset r8v10/r8v10.ytd uses 42.0 MiB of physical memory.
+[resources:r8v10:stre] Asset r8v10/r8v10_hi.yft uses 19.8 MiB of virtual memory.
+[           resources] Started resource r8v10 (4 warnings)
+[resources:raptor2017] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:raptor2017] Asset raptor2017/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor2017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:raptor2017] Asset raptor2017/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_2.yft uses 20.8 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_bajacage_4.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_raidint.yft uses 32.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools.yft uses 24.0 MiB of physical memory.
+[resources:raptor2017] Asset raptor2017/raptor_tools2.yft uses 24.0 MiB of physical memory.
+[           resources] Started resource raptor2017 (10 warnings)
+[resources:razerhycad] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:18)
+[resources:razerhycad] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[resources:razerhycad] Asset razerhycade34/razerhycade34.yft uses 28.5 MiB of virtual memory.
+[resources:razerhycad] Asset razerhycade34/razerhycade34.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:razerhycad] Asset razerhycade34/razerhycade34_hi.yft uses 28.5 MiB of virtual memory.
+[           resources] Started resource razerhycade34 (5 warnings)
+[resources:rs318:stre] Asset rs318/rs318.yft uses 32.5 MiB of virtual memory.
+[resources:rs318:stre] Asset rs318/rs318.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs318:stre] Asset rs318/rs318_hi.yft uses 32.5 MiB of virtual memory.
+[38;5;21m[resources:rs318:stre] Asset rs318/wheel_abt_01.ydr uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs318 (4 warnings)
+[    resources:rs3s20] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[    resources:rs3s20] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:rs3s20:str] Asset rs3s20/rs3s20.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/rs3s20.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs3s20:str] Asset rs3s20/rs3s20_hi.yft uses 18.4 MiB of virtual memory.
+[resources:rs3s20:str] Asset rs3s20/wheel_abt_03.ydr uses 32.0 MiB of physical memory.
+[           resources] Started resource rs3s20 (6 warnings)
+[  resources:rs4avant] Warning: could not find file `carcols.meta` (defined in fxmanifest.lua:3)
+[resources:rs4avant:s] Asset rs4avant/rs4avant.yft uses 30.2 MiB of virtual memory.
+[resources:rs4avant:s] Asset rs4avant/rs4avant.ytd uses 55.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs4avant:s] Asset rs4avant/rs4avant_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource rs4avant (4 warnings)
+[resources:rs62:strea] Asset rs62/rs62.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rs62 (1 warning)
+[resources:rs7:stream] Asset rs7/rs7.yft uses 31.5 MiB of virtual memory.
+[resources:rs7:stream] Asset rs7/rs7.ytd uses 75.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7:stream] Asset rs7/rs7_hi.yft uses 31.5 MiB of virtual memory.
+[           resources] Started resource rs7 (3 warnings)
+[     resources:rs7c8] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.yft uses 23.5 MiB of virtual memory.
+[resources:rs7c8:stre] Asset rs7c8/rs7c8.ytd uses 94.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:rs7c8:stre] Asset rs7c8/rs7c8_hi.yft uses 23.5 MiB of virtual memory.
+[           resources] Started resource rs7c8 (4 warnings)
+[resources:rx811:stre] Asset rx811/rx811.yft uses 26.8 MiB of virtual memory.
+[resources:rx811:stre] Asset rx811/rx811.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource rx811 (2 warnings)
+[      resources:s63b] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:s63b:strea] Asset s63b/s63b.yft uses 29.8 MiB of virtual memory.
+[resources:s63b:strea] Asset s63b/s63b.ytd uses 56.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:s63b:strea] Asset s63b/s63b_hi.yft uses 29.8 MiB of virtual memory.
+[           resources] Started resource s63b (4 warnings)
+[   resources:silvia3] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:3)
+[resources:silvia3:st] Asset silvia3/silvia3.yft uses 30.2 MiB of virtual memory.
+[resources:silvia3:st] Asset silvia3/silvia3.ytd uses 98.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:silvia3:st] Asset silvia3/silvia3_hi.yft uses 30.2 MiB of virtual memory.
+[           resources] Started resource silvia3 (4 warnings)
+[  resources:sr650fly] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[  resources:sr650fly] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[  resources:sr650fly] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:sr650fly:s] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[           resources] Started resource sr650fly (4 warnings)
+[      resources:ss69] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:ss69:strea] Asset ss69/ss69.ytd uses 196.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource ss69 (2 warnings)
+[           resources] Started resource subwrx
+[resources:tahoe:stre] Asset tahoe/tahoe.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource tahoe (1 warning)
+[    c-scripting-core] Creating script environments for teezy-Carrental
+[           resources] [0mStarted resource teezy-Carrental
+[   resources:teslapd] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:17)
+[   resources:teslapd] Warning: could not find file `carcols.meta` (defined in __resource.lua:3)
+[   resources:teslapd] Warning: could not find file `dlctext.meta` (defined in __resource.lua:3)
+[resources:teslapd:st] Asset teslapd/teslapd.yft uses 22.4 MiB of virtual memory.
+[resources:teslapd:st] Asset teslapd/teslapd.ytd uses 37.5 MiB of physical memory.
+[resources:teslapd:st] Asset teslapd/teslapd_hi.yft uses 22.4 MiB of virtual memory.
+[           resources] Started resource teslapd (6 warnings)
+[resources:teslax:str] Asset teslax/teslax.yft uses 19.5 MiB of virtual memory.
+[resources:teslax:str] Asset teslax/teslax.ytd uses 115.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:teslax:str] Asset teslax/teslax_hi.yft uses 19.5 MiB of virtual memory.
+[           resources] Started resource teslax (3 warnings)
+[resources:vwpassat:s] Asset vwpassat/vwpasat.yft uses 29.2 MiB of virtual memory.
+[resources:vwpassat:s] Asset vwpassat/vwpasat.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:vwpassat:s] Asset vwpassat/vwpasat_hi.yft uses 29.2 MiB of virtual memory.
+[           resources] Started resource vwpassat (3 warnings)
+[           resources] [0mStarted resource wm-serversirens
+[     resources:xp210] Warning: could not find file `vehiclelayouts.meta` (defined in fxmanifest.lua:3)
+[resources:xp210:stre] Asset xp210/xp210.ytd uses 65.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[resources:xp210:stre] Asset xp210/xp210_hi.yft uses 23.2 MiB of virtual memory.
+[           resources] Started resource xp210 (3 warnings)
+[    c-scripting-core] Creating script environments for xsound
+[    resources:xsound] Warning: could not find file `html/sounds/*.ogg` (defined in fxmanifest.lua:35)
+[    resources:xsound] Warning: could not find file `html/sounds/*.mp3` (defined in fxmanifest.lua:35)
+[           resources] Started resource xsound (2 warnings)
+[resources:yukonxl:st] Asset yukonxl/yukonxl.ytd uses 19.0 MiB of physical memory.
+[           resources] Started resource yukonxl (1 warning)
+[resources:zl12017:st] Asset zl12017/zl12017.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zl12017 (1 warning)
+[     resources:zx10r] Warning: could not find client_script `vehicle_names.lua` (defined in __resource.lua:27)
+[     resources:zx10r] Warning: could not find file `vehiclelayouts.meta` (defined in __resource.lua:12)
+[resources:zx10r:stre] Asset zx10r/zx10r.ytd uses 74.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).
+[           resources] Started resource zx10r (3 warnings)
+[     script:rpemotes] [rpemotes] Current Version: 1.2.6
+[     script:rpemotes] [rpemotes] Latest Version: 1.2.6
+[     script:rpemotes] [rpemotes] You are running the latest version.
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[           resources] Stopping resource qb-weapons
+[script:ks-multichara] [0m
+[script:ks-multichara] Starting <qb-core> version of [ks-multicharacter]...
+[script:ks-multichara] 
+[script:ks-scoreboard] 
+[script:ks-scoreboard] Starting <qb-core> version of [ks-scoreboard]...
+[script:ks-scoreboard] 
+[     script:ks-spawn] 
+[     script:ks-spawn] Starting <qb-core> version of [ks-spawn]...
+[     script:ks-spawn] 
+[    script:cd_garage] [cd_garage] - Saving all cached data please wait....
+[    script:cd_garage] ----------------------------
+[    script:cd_garage] Automatically Inserting SQL.
+[      script:oxmysql] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gilf911-kala66.users.cfx.re/
+[    script:cd_garage] SQL Inserted Successfully.[97m
+[    script:cd_garage] --------------------------
+[          script:lvc] 
+[          script:lvc] 	 ________________________________________________________
+[          script:lvc] 	|	      __                       ___               |
+[          script:lvc] 	|	     / /       /\   /\        / __\              |
+[          script:lvc] 	|	    / /        \ \ / /       / /                 |
+[          script:lvc] 	|	   / /___       \ V /       / /___               |
+[          script:lvc] 	|	   \____/uxart   \_/ ehicle \____/ontrol         |
+[          script:lvc] 	|	                                                 |
+[          script:lvc] 	|	            COMMUNITY ID: AR                     |
+[          script:lvc] 	|	         INSTALLED VERSION: 3.2.8                |
+[          script:lvc] 	|	           LATEST VERSION:  3.2.9
+[          script:lvc]                 |
+[    script:cd_garage] [cd_garage] - Saved all cached data.
+[ script:ox_inventory] [0m[info] Inventory has loaded 319 items
+[          script:lvc] 	|	             UPDATE REQUIRED                     |
+[          script:lvc] 	|                      DOWNLOAD AT:                      |
+[          script:lvc] 	| github.com/TrevorBarns/luxart-vehicle-control/releases |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 	|      Updates, Support, Feedback: discord.link/LVC      |
+[          script:lvc] 	|________________________________________________________|
+[          script:lvc] 
+[          script:lvc] 
+[   script:codem-bank] codem-bank:Framework object found : 	newqb
+[     script:gksphone] [GKSPHONE] You are using the current version!
+[    script:cd_garage] ===================================
+[    script:cd_garage] [cd_garage] - New Update Available.
+[    script:cd_garage] Current Version: 4.3.2.
+[    script:cd_garage] New Version: 4.3.3.
+[    script:cd_garage] Notes: bug fixes.
+[    script:cd_garage] ===================================
+[           resources] Stopping resource hardcap
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[script:ks-multichara] [qb-core] emilf (Citizen ID: IST39425) has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[ script:ox_inventory] [info] Saving 1 inventories to the database
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ script:ox_inventory] [info] Inventory has loaded 319 items
+[ script:ox_inventory] [info] Inventory has loaded 319 items
+[ script:ox_inventory] [info] Saving 1 inventories to the database
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] emilf PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] HaniSkilz PLAYER SAVED!
+[script:ks-multichara] [qb-core] HaniSkilz has succesfully loaded!
+[      script:qb-core] [qb-core:LOG] HaniSkilz PLAYER SAVED!
+> add_principal identifier.fivem:1371041 group.admin
+[      script:qb-core] [qb-core:LOG] HaniSkilz PLAYER SAVED!
+[ script:ox_inventory] [info] Saving 1 inventories to the database
+[      script:qb-core] [0m[qb-core:LOG] HaniSkilz PLAYER SAVED!

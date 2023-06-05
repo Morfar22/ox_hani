@@ -1,0 +1,43 @@
+{
+  "global": {
+    "serverName": "AuroraRolePlay",
+    "language": "da",
+    "menuEnabled": true,
+    "menuAlignRight": false,
+    "menuPageKey": "Tab",
+    "hideDefaultAnnouncement": false,
+    "hideDefaultDirectMessage": false,
+    "hideDefaultWarning": false,
+    "hideDefaultScheduledRestartWarning": false
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "resourceStartingTolerance": 600
+  },
+  "playerDatabase": {
+    "onJoinCheckBan": true,
+    "whitelistMode": "disabled",
+    "whitelistedDiscordRoles": [],
+    "whitelistRejectionMessage": "Please join http://discord.gg/example and request to be whitelisted.",
+    "requiredBanHwidMatches": 1,
+    "banRejectionMessage": "You can join http://discord.gg/example to appeal this ban."
+  },
+  "webServer": {
+    "disableNuiSourceCheck": false
+  },
+  "discordBot": {
+    "enabled": true,
+    "token": "OTE5MzA0MTM0MTcwMTE2MTA2.Gsu5M2.qCj-fUGYEY0NUBOoyHTqNOIGcfbbshB6BsdCVY",
+    "guild": "1113585978301497396",
+    "announceChannel": "1113840277044605069",
+    "embedJson": "{\n  \"title\": \"{{serverName}}\",\n  \"url\": \"{{serverBrowserUrl}}\",\n  \"description\": \"Her kan du se lidt info om serveren!\",\n  \"fields\": [\n    {\n      \"name\": \"> STATUS\",\n      \"value\": \"```\\n{{statusString}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> SPILLERE\",\n      \"value\": \"```\\n{{serverClients}}/{{serverMaxClients}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> F8 CONNECT COMMAND\",\n      \"value\": \"```\\nconnect cfx.re/join/kala66\\n```\"\n    },\n    {\n      \"name\": \"> NÆSTE GENSTART\",\n      \"value\": \"```\\n{{nextScheduledRestart}}\\n```\",\n      \"inline\": true\n    },\n    {\n      \"name\": \"> OPPE TID\",\n      \"value\": \"```\\n{{uptime}}\\n```\",\n      \"inline\": true\n    }\n  ],\n  \"image\": {\n    \"url\": \"https://cdn.discordapp.com/attachments/915573624210083851/1113586628934508595/static.png\"\n  },\n  \"thumbnail\": {\n    \"url\": \"https://cdn.discordapp.com/attachments/915573624210083851/1113586628934508595/static.png\"\n  }\n}",
+    "embedConfigJson": "{\n  \"onlineString\": \"🟢 Online\",\n  \"onlineColor\": \"#0BA70B\",\n  \"partialString\": \"🟡 Partial\",\n  \"partialColor\": \"#FFF100\",\n  \"offlineString\": \"🔴 Offline\",\n  \"offlineColor\": \"#A70B28\",\n  \"buttons\": [\n    {\n      \"emoji\": \"1062338355909640233\",\n      \"label\": \"Forbind til serveren\",\n      \"url\": \"{{serverJoinUrl}}\"\n    },\n    {\n      \"emoji\": \"1062339910654246964\",\n      \"label\": \"Vores dicord\",\n      \"url\": \"https://discord.gg/YRHvGGGaRh\"\n    }\n  ]\n}"
+  },
+  "fxRunner": {
+    "serverDataPath": "C:/Users/Ny_konto/Desktop/AuroraRolePlay/server-data/",
+    "cfgPath": "C:/Users/Ny_konto/Desktop/AuroraRolePlay/server-data/server.cfg",
+    "onesync": "on",
+    "autostart": true
+  }
+}

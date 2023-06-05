@@ -1,0 +1,26 @@
+[
+  {
+    "name": "gilf911",
+    "master": true,
+    "password_hash": "$2a$11$YwH7axz5FvYPSXue9juiAuXHeKi0oaOXI4ZWgi4zOO5Cli8s4JNFu",
+    "providers": {
+      "citizenfx": {
+        "id": "gilf911",
+        "identifier": "fivem:107897",
+        "data": {
+          "sub": "8077989cd127f6659c6dcf2be181a6b6",
+          "nameid": "https://forum.cfx.re/internal/user/107897",
+          "name": "gilf911",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/gilf911/256/2845518_2.png",
+          "profile": "https://forum.cfx.re/u/gilf911"
+        }
+      },
+      "discord": {
+        "id": "814032394935992350",
+        "identifier": "discord:814032394935992350",
+        "data": {}
+      }
+    },
+    "permissions": []
+  }
+]
